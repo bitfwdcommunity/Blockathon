@@ -1,8 +1,9 @@
-The Ultimate Guide to Hack Weekends
+The Ultimate Guide to your own Blockathon 
 ===================
 
 <a href="http://hackweekends.com/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/hackweekends/hack-weekends-logo-2.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
-This is an open source template for organizing a hackathon.
+
+This is an open source template for organizing a blockathon.
 
 This template contains a [how-to-guide](https://github.com/kinlane/hack-weekends-guide#the-hack-day-manifesto---httphackdaymanifestocom) with accompanying [hackathon web site](http://kinlane.github.com/hack-weekends-guide/) running on [Github Pages](http://pages.github.com/) + [Jekyll](https://github.com/mojombo/jekyll).
 
