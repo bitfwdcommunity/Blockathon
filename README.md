@@ -57,16 +57,10 @@ XXX
 ## Team 
 Your team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified (These roles can be delegated or a sole person can handle all the activities)
 
-Someone responsible for:
-* <strong>Logistics</strong>  
-- This person will handle the venue organisation, catering for food/drinks and ensure the event runs smoothly
-* <strong>Finances</strong>  
-- The person will liase with the respective stakeholders to finance the event.
-* <strong>Marketing/Social Media</strong>  
-- This person will be in charge of marketing the event to the necessary audience through the most appropriate channels (Facebook, Twitter, Telegram etc.) 
-- If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event.
-* <strong>Other</strong>  
-- Other considerations should be made for someone responsible for design + XXX
+* <strong>Logistics</strong> - This person will handle the venue organisation, catering for food/drinks and ensure the event runs smoothly
+* <strong>Finances</strong> - The person will liase with the respective stakeholders to finance the event.
+* <strong>Marketing/Social Media</strong> - This person will be in charge of marketing the event to the necessary audience through the most appropriate channels (Facebook, Twitter, Telegram etc.) - If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event.
+* <strong>Other</strong>  - Other considerations should be made for someone responsible for design + development for website
 
 ## Title and Description
 
