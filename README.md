@@ -43,7 +43,7 @@ Before you planning your event, there are a few key considerations that need to 
 - Reason - Why are you hosting a Blockathon?
 - Organising Team - Who will be helpding you organise this event?
 - Theme - What type of problem are you looking to solve?
-- Name - What will the event be called?
+- Title - What will the event be called?
 - Format - How many hours/days will you run the event for?
 - Date - When will it be held?
 - Venue - How many people can you host?
@@ -55,28 +55,33 @@ Before you planning your event, there are a few key considerations that need to 
 XXX
 
 ## Team 
-Your team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified (These roles can be delegated or a sole person can handle all the activities)
+Your team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
 
 * <strong>Logistics</strong> - This person will handle the venue organisation, catering for food/drinks and ensure the event runs smoothly
 * <strong>Finances</strong> - The person will liase with the respective stakeholders to finance the event.
 * <strong>Marketing/Social Media</strong> - This person will be in charge of marketing the event to the necessary audience through the most appropriate channels (Facebook, Twitter, Telegram etc.) - If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event.
-* <strong>Other</strong>  - Other considerations should be made for someone responsible for design + development for website
+* <strong>Other</strong>  - Someone responsible for design of promotional material+ development for website if necessary
+
+These roles can be delegated or a sole person can handle all the activities.
+
+## Theme
+The best themes are the ones that are most relevant to your  audience and consideration of their expertise in the topic/industry. With the current state of Blockchain technology, there are so many problems that can be solved by leveraging it's protocols and infastructure so finding a theme should be no problem.
+
+Example themes include: Art, Civic, Data, Education, Games, Green Energy, Health, Journalism, Language, Mobile, Movies, Music, Photos, Politics, Robotics, Science, Sports and Water
+
+Your hackathon attendees will appreciate you putting a lot of thought into your theme 🙂
+
+Below are a list of past Blockathons:
+* List of the past Hackathons that we have seen/run XXX ... Provide link...
+* List of the past Hackathons that we have seen/run XXX ... Provide link...
+* List of the past Hackathons that we have seen/run XXX ... Provide link...
+
 
 ## Title and Description
 
 Give your event a catchy name that represents your goals and will stick in the minds of developers.
 
 Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and goals of the hackathon.
-
-## Theme
-
-Hackathons got their beginning in cryptographic software development and was popularized by Silicon Valley startup culture.  However hackathons have moved into a wide variety of niches, not always centered around technology, including:
-
-Art, Civic, Data, Education, Games, Green Energy, Health, Journalism, Language, Mobile, Movies, Music, Photos, Politicis, Robotics, Science, Sports, Water, Women and more.
-
-The boundaries of what theme a hackathon can assume is endless.  But there are some great examples being executed globally that might work for your hackathon.
-
-Your hackathon attendees will appreciate you putting a lot of thought into your theme.
 
 ## Format
 
