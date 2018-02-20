@@ -1,13 +1,13 @@
 The Ultimate Guide to your own Blockathon 
 ===================
 
-<a href="http://hackweekends.com/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/hackweekends/hack-weekends-logo-2.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
+(Forked from XXX user)
+
+<a href="http://hackweekends.com/" target="_blank"><img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
 This is an open source template for organizing a blockathon.
 
-This template contains a [how-to-guide](https://github.com/kinlane/hack-weekends-guide#the-hack-day-manifesto---httphackdaymanifestocom) with accompanying [hackathon web site](http://kinlane.github.com/hack-weekends-guide/) running on [Github Pages](http://pages.github.com/) + [Jekyll](https://github.com/mojombo/jekyll).
-
-I wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of hackathons and begin planning and executing hackathons in your community.
+We wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of blockathons and begin planning and executing hackathons in your community.
 
 This open source guide is compiled with material from:
 
@@ -15,28 +15,30 @@ This open source guide is compiled with material from:
 * [Open Data Hackathon How to Guide](https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
 * [The Hack Day Manifesto](http://hackdaymanifesto.com/)
 
-Hack Weekends Guide is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
+The Ultimate Guide to your own Blockathon is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
 
 # Overview
 
-## What is a Hackathon?
+## What is a Blockathon?
 
-A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+Blockathon = Blockchain + Hackathon. 
 
-## History
+Blockchain encompassing the technology driving the new age of trust and decentralisation and hackathon being an event in which anyone from any field can come together and work on a project in a given timeframe. By combining the two, you get an event where people come together and work on meaningful projects for the Blockchain.
 
-The word "hackathon" is a portmanteau of the words "hack" and "marathon". The term seems to have been created independently by both the developers of OpenBSD and the marketing team of Sun; these usages both first happened in 1999. OpenBSD's apparent first use of the term referred to a cryptographic development event held in Calgary on June 4, 1999, where 10 developers came together to avoid legal problems caused by export regulations of cryptographic software from the United States.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Experience), Hustler (Business XX) + Academic, anyone is welcome to participate. Blockathons have been founded on the principles to further develop the Blockchain community, coming together with like-minded individuals and learning from one another.
 
-Starting in the mid to late 2000s, hackathons became significantly more widespread, and began to be increasingly viewed by companies and venture capitalists as a way to quickly develop new software technologies, and to locate new areas for innovation and funding.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+The only way to grow in life is by XXX.
 
-Hackathon are not intended to perform illegal activities around computer networks. Software developers widely see hacking as a quick and dirty, creative programming solution to a problem.  It is NOT about gaining access to other networks, which is a definition widely publicized by the media and Hollywood.[[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus whihc can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
 
-## Why Hold a Hackathon?
-Before you run a Hackathon, it’s useful to think about the purpose behind it.  What are you hoping to accomplish?  Your goal can be as general as “increase awareness around open data” or more specific, such as “fix at least 10 bugs in software application X”. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+## Why Hold a Blockathon?
+Talk about Blockchain + community...
 
-As well, think about the stakeholders for your event, including attendees, volunteers, sponsors and third parties, and what they might get out the experience or how they might be impacted.  For example, you may want your attendees to be inspired or have them learn new skills.  You might want a third party, for example the homeless, to benefit. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Before you run a Hackathon, it’s useful to think about the purpose behind it.  What are you hoping to accomplish?  Your goal can be as general as “increase awareness around Blockchain” or more specific, such as “fix at least 10 bugs in the Smart Contract X”. 
 
-And finally, it’s useful to think about what you will get out of the event.  Is it an opportunity to build your community?  Perhaps an opportunity to demonstrate leadership or to practice facilitation? [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+As well, think about the stakeholders for your event, including attendees, volunteers, sponsors and third parties, and what they might get out the experience or how they might be impacted.  For example, you may want your attendees to be inspired or have them learn new skills. 
+
+
 
 Paying attention to what your various stakeholders might get out of the hackathon and being intentional about people having a positive experience can greatly increase your likelihood of success.  Knowing what you want is a large part of getting it.[[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
