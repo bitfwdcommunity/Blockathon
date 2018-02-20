@@ -15,6 +15,8 @@ This open source guide is compiled with material from:
 * [Open Data Hackathon How to Guide](https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
 * [The Hack Day Manifesto](http://hackdaymanifesto.com/)
 
+* Links to all the below points (Prizes / Format / etc...)
+
 The Ultimate Guide to your own Blockathon is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
 
 # Overview
@@ -29,24 +31,28 @@ Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Expe
 
 The only way to grow in life is by XXX.
 
-Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus whihc can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
+Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
 
-## Why Hold a Blockathon?
+## Why Blockchain?
 Talk about Blockchain + community...
-
-Before you run a Hackathon, it’s useful to think about the purpose behind it.  What are you hoping to accomplish?  Your goal can be as general as “increase awareness around Blockchain” or more specific, such as “fix at least 10 bugs in the Smart Contract X”. 
-
-As well, think about the stakeholders for your event, including attendees, volunteers, sponsors and third parties, and what they might get out the experience or how they might be impacted.  For example, you may want your attendees to be inspired or have them learn new skills. 
-
-
-
-Paying attention to what your various stakeholders might get out of the hackathon and being intentional about people having a positive experience can greatly increase your likelihood of success.  Knowing what you want is a large part of getting it.[[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+XXX
+XXX
+XXX
 
 # Hackathon Planning
 
-## Assemble a  Team
+## Before the Event 
 
-People like to help out with causes that they believe in.  Involving others in the planning and running of your Hackathon is not only practical, it’s a way to give others an opportunity to contribute.  Here are several practical roles for people that will help your Hackathon run smoothly: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Amazing, you are thinking of hosting your own Blockathon!✌️ ...
+
+Before you planning your event, there are a few key considerations that need to be made. 
+- Reason for hosting a Blockathon
+- Theme
+- Name
+- Format 
+- Date 
+- Venue 
+
 
 * <strong>Facilitator</strong> - The person who manages the Hackathon process.
 * <strong>Ringer</strong> - A participant who understands open data concepts and the technologies involved and who can work on projects and help others to work on their projects.
