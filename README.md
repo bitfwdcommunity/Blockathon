@@ -5,17 +5,13 @@ The Ultimate Guide to your own Blockathon
 
 <a href="http://hackweekends.com/" target="_blank"><img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
-This is an open source template for organizing a blockathon.
+This is an open source template for organizing your own Blockathon.
 
-We wanted to provide a single README file for scanning, with as much support material as possible.  So you can easily understand the wonderful world of blockathons and begin planning and executing hackathons in your community.
-
-This open source guide is compiled with material from:
-
-* [Hack Weekends](http://hackweekends.com/)
-* [Open Data Hackathon How to Guide](https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit)
-* [The Hack Day Manifesto](http://hackdaymanifesto.com/)
+We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
 
 * Links to all the below points (Prizes / Format / etc...)
+*
+*
 
 The Ultimate Guide to your own Blockathon is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
 
@@ -35,29 +31,42 @@ Blockathons typically last between a day to a week in length, depending on the e
 
 ## Why Blockchain?
 Talk about Blockchain + community...
-XXX
-XXX
-XXX
+
 
 # Hackathon Planning
 
 ## Before the Event 
 
-Amazing, you are thinking of hosting your own Blockathon!✌️ ...
+Amazing, you are thinking of hosting your own Blockathon!✌️
 
 Before you planning your event, there are a few key considerations that need to be made. 
-- Reason for hosting a Blockathon
-- Theme
-- Name
-- Format 
-- Date 
-- Venue 
+- Reason - Why are you hosting a Blockathon?
+- Organising Team - Who will be helpding you organise this event?
+- Theme - What type of problem are you looking to solve?
+- Name - What will the event be called?
+- Format - How many hours/days will you run the event for?
+- Date - When will it be held?
+- Venue - How many people can you host?
+- Finances/ Budget / Sponsorship - How are you going to finance the event?
+- Marketing - How are you going to market your event?
+-
 
+## Reason 
+XXX
 
-* <strong>Facilitator</strong> - The person who manages the Hackathon process.
-* <strong>Ringer</strong> - A participant who understands open data concepts and the technologies involved and who can work on projects and help others to work on their projects.
-* <strong>Room Manager</strong> - The room manager is someone that people can go to when they are not sure what to do and would like some direction.  People who attend may have little or no experience with Hackathons.  The room manager is the go-to person for those who do not know what to do or how they can help.
-* <strong>Social Media Manager</strong> - This person will Tweet and update Facebook and Google+ status for your event.  If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+## Team 
+Your team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified (These roles can be delegated or a sole person can handle all the activities)
+
+Someone responsible for:
+* <strong>Logistics</strong>  
+- This person will handle the venue organisation, catering for food/drinks and ensure the event runs smoothly
+* <strong>Finances</strong>  
+- The person will liase with the respective stakeholders to finance the event.
+* <strong>Marketing/Social Media</strong>  
+- This person will be in charge of marketing the event to the necessary audience through the most appropriate channels (Facebook, Twitter, Telegram etc.) 
+- If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event.
+* <strong>Other</strong>  
+- Other considerations should be made for someone responsible for design + XXX
 
 ## Title and Description
 
