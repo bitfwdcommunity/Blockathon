@@ -1,8 +1,6 @@
 The Ultimate Guide to your own Blockathon 
 ===================
 
-(Forked from XXX user)
-
 <a href="http://hackweekends.com/" target="_blank"><img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
 This is an open source template for organizing your own Blockathon.
@@ -10,10 +8,11 @@ This is an open source template for organizing your own Blockathon.
 We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
 
 * Links to all the below points (Prizes / Format / etc...)
-*
-*
+* Before the Event + sublinks below
+* During the Event + sublinks below
+* After the Event + sublinks below
 
-The Ultimate Guide to your own Blockathon is licensed [Creative Commons](http://creativecommons.org/licenses/by/3.0/deed.en_US) to keep alignment with contributors and a healthier global hackathon community.
+The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
 # Overview
 
@@ -40,13 +39,12 @@ Talk about Blockchain + community...
 Amazing, you are thinking of hosting your own Blockathon!✌️
 
 Before you planning your event, there are a few key considerations that need to be made. 
-- Reason - Why are you hosting a Blockathon?
+- Reason - Why are you hosting a Blockathon? (Optional...)
 - Organising Team - Who will be helpding you organise this event?
 - Theme - What type of problem are you looking to solve?
 - Title - What will the event be called?
 - Format - How many hours/days will you run the event for?
-- Date - When will it be held?
-- Venue - How many people can you host?
+- Date, Time and Venue - When and where will it be held?
 - Finances/ Budget / Sponsorship - How are you going to finance the event?
 - Marketing - How are you going to market your event?
 -
@@ -54,8 +52,8 @@ Before you planning your event, there are a few key considerations that need to 
 ## Reason 
 XXX
 
-## Team 
-Your team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
+## Organising Team 
+Your organising team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
 
 * <strong>Logistics</strong> - This person will handle the venue organisation, catering for food/drinks and ensure the event runs smoothly
 * <strong>Finances</strong> - The person will liase with the respective stakeholders to finance the event.
@@ -79,16 +77,17 @@ Below are a list of past Blockathons:
 
 ## Title and Description
 
-Give your event a catchy name that represents your goals and will stick in the minds of developers.
+Give your event a catchy name that represents your theme and will stick in the minds of developers/participants.
 
-Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and goals of the hackathon.
+Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and outcome of the blockathon.
 
 ## Format
 
-The formats for hackathons are pretty loose.  Usually the format revolves around two distinct formats:
+The formats for hackathons depend on the organisers.  Usually they revolve around two formats:
 
 * Hack Day - 12 to 24 hour timeframe
 * Hack Weekend - 24 to 48 hour timeframe
+* Online Hack - Any time frame...
 
 Within this schedule several hackathon components can be applied:
 
@@ -98,33 +97,25 @@ Within this schedule several hackathon components can be applied:
 * Other Presentation
 * Idea Pitches
 * Team Formation
+* HACKING 
 * Project Presentations
 * Judging
 * Award Ceremonies
 * After Party
 
+(Perhaps add a sample schedule here..)
+
 This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
-## Size
+## Date, Time and Venue
 
-Hackathons come in all sizes.  They can be as small as 5-10 people or as big as 500.
+The date can have significant infleunce on how well it is attended and how much impact it has. Community hackathns are typically hled on weekends when people are not working. So it is necessary to choose a date to allow yourself to promote and have the attendees clear their schedule.
 
-When it comes to hackathons, bigger isn't always better, but conducting larger events without proper experience and resources can be a major disaster.
+Also best to avoid any public weekends / holidays as people will be away on vacation during that time.
 
-Keep size in line with your over goal for throwing a hackathon
+The venue...
 
-## Scheduling
-
-### Choose a Date
-
-Choosing a good date for your Hackathon can have a significant influence on how well it is attended and how much impact it has.  Hackathons take concentrated effort over at least one day, so community Hackathons are typically held on weekends when most people are not working.  Make sure you choose a date far enough in advance to allow yourself time to promote it to attendees.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-In addition, we recommend that if possible, you avoid the following when choosing your date:
-* holiday weekends
-*politically significant dates, such as elections, especially if you are organizing a  government open data Hackathon
-* religious holidays
-* summer months if possible (it can be challenging to gather together attendees, especially in smaller cities.)
-* weekends with events already scheduled that will compete with your event for attendees (other Hackathons, ChangeCamps, conferences) [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Hackathons come in all sizes.  They can be as small as 5-10 people or as big as 500. When it comes to hackathons, bigger isn't always better, but conducting larger events without proper experience and resources can be a major disaster. Keep size in line with your over goal for throwing a hackathon
 
 ### Choose a Time
 
@@ -157,13 +148,8 @@ Include instructions/contacts/getting in arrangements, too (i.e., what do to at 
 
 Print big signs that will guide your attendees to the venue (and in some case inside the venue). [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
 
-### Sleeping provision
-If attendees are staying overnight, then a separate (dark, quiet) area should be available away from the hacking should people decide to sleep. If possible, this should be several areas potentially including dedicated areas, for example male/female/mixed, minors (+chaperones?), snorer/non-snorer, night-owls/early birds.
 
-### Showers Optional
-Despite the stereotypes, most geeks like to keep clean. Only a few venues are able to provide showers - but if you can, you should. Make sure you tell attendees well in advance so they can bring towels and toiletries.
-
-### Accessibility
+### Accessibility / Dietary Requirements
 Hack day venues should be accessible to everyone: at a bare minimum, there should be step-free access to all common parts of the building. If an attendee is blind or deaf, they should be able to participate too. Make sure your event signup forms mention accessibility and ask what accommodations might be needed. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
 
 ### Insurance
@@ -175,48 +161,11 @@ Attendees will often be bringing a lot of expensive kit: laptops, tablets, etc. 
 ### Secure sites and photo ID
 Are the rooms going to be available to non-attendees? Work out whether you are running a secure site and whether people need to bring photo ID; if so, tell them when they sign up and remind them close to the event date. For some people, showing photo ID may be a deal breaker. Not everyone will have ‘government issued ID’, either. Providing proof of address may be hard for some. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
 
-## Network
 
-### Your 4MB DSL isn’t enough
-Hack days have special requirements: don’t just trust anyone who tells you that “it’ll be fine”. Think about the networking issues, and verify that they work for the kind of capacity you are going to have. People from the venue or their commercial partner will tell you all sorts of things you want to hear but keep in the back of your mind that they may not have any clue what they are talking about. Given the importance of network access, if you are operating a commercial event consider requiring network performance as part of your contract with venues and suppliers. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
 
-### Rock solid WiFi
-Many commercial WiFi providers plan for much lower use than actually occurs at hack days. The network should be capable of handling at least 4 devices per attendee. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### Minimal firewalling
-As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP), VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), and Git (9418), must be open and accessible, without the need of proxy servers, and preferably without perimeter-level malware &c checks. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### Subnet / DHCP capacity
-Subnet and DHCP server must have capacity for allocating 6 IPv4 (and optionally, IPv6) addresses (preferably a /29) per hacker.  If NAT is not used, attendees should be informed in advance. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### WiFi security
-Use WPA2 security over an open WiFi network, to offer some basic protection against the monitoring of other users’ network traffic. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### No device isolation
-Attendees should be reminded that when connected to the network, their devices may be accessible to all other devices on the network so they would be wise to secure them. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-Organisers should make it clear that they absolve themselves of liability for any intrusion or damage caused over the network. Attendees will want to share resources with other attendees (version control, for example) but while it would be wise for them to do so in a controlled manner it is ultimately up to each individual to be responsible for the security of their own devices, connected or otherwise. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-Attendees should be encouraged/advised to run their own firewalls, too, remembering that IPv6 exists. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### IP Whitelisting
-For events with 150 attendees or more, you will need to contact organisations such as Twitter, Google, and Freenode in advance to inform them of the increased number of connections from your IP range; they may have an existing process that you should use. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-In many cases, rate-limiting is handled by authentication, not IP address (ranges). [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-For Freenode, email iline@freenode.net with dates, expected number of attendees and IP addresses if possible. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### QoS and Monitoring
-
-Traffic shaping and monitoring should be employed to help prevent a few users abusing the connection to the detriment of all others. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-DPI should not be used. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### Ethernet to the Chair Optional
-In case of WiFi collapse (or if you can’t provide adequate WiFi at all) you should have ethernet available at the chairs. Have at least fast ethernet feeding into a gigabit backbone arranged in an (extended) star topology. If you go ethernet-only, announce this up-front. Regardless if you provide cables or attendees bring their own, you should have a big pile of spare cables at the venue. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-### Single subnet Optional
-Both wifi and ethernet should share a single subnet, allowing devices to communicate regardless of how they are connected to the network. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+- Wifi
+- Power sockets + safety
+- Audio + visual 
 
 ## Power
 
