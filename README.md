@@ -8,9 +8,56 @@ This is an open source template for organizing your own Blockathon.
 We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
 
 # Table of Contents
-* Before the Event + sublinks below
-* During the Event + sublinks below
-* After the Event + sublinks below
+
+## Before the Event 
+- [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
+- Organising Team - Who will be helpding you organise this event?
+- Theme - What type of problem are you looking to solve?
+- Title - What will the event be called?
+- Format - How many hours/days will you run the event for?
+- Date and Time - When will it be held?
+- Venue - Where will it be held? 
+- Finances/ Budget / Sponsorship - How are you going to finance the event?
+- Speakers / Judges / Mentors - Who will be speaking?
+- Prizes - What will the attendees be awarded?
+
+## Marketing
+- Duration / 2 Weeks before... / 3 - 4 weeks 
+- Website
+- Info pack (Link to telegram / schedule / XXX)
+- EDM + Eventbrite 
+- Social Media Channels - Facebook Event
+ 
+## During the Event
+- Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Registration / Dietary / XX) 
+- Sample agenda picture again
+- Organising Team - (MC with time constraints / Logisitics / Social media ) 
+- Presenting the problem...
+- Arrival of the guests (Telegram)
+- Following the Format
+- Catering (Food and drinks ) 
+- Format of the presentation at the end of the day 
+- During the Pitch (MC / Time constraints)
+- End of the Pitch + Celebration/Networking
+
+Low budget: 
+- Supermarket - bulk / online deliveries
+- Bread / Cereal Milk / 
+- Snacks - biscuits / sugar
+- Roast chicken for sandies
+30 people = $400-500
+
+Medium
+- Order restaurant for deals ( buritos / suhsi / sandiwhces / falafel and wraps / XXX)
+
+High
+- High end catering if you want to impress corproate faggots + dollar dollar bills + Champagne every day. 
+
+## After the Event
+- Packing up ( Dishes / Chairs / Cleaning)
+- Thank you + Keeping in touch with the attendees
+- Follow up content 
+- 
 
 The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
@@ -27,46 +74,6 @@ Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Expe
 The only way to grow in life is by XXX.
 
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
-
-# Hackathon Planning
-
-## Before the Event 
-Amazing, you are thinking of hosting your own Blockathon!✌️
-
-Before you planning your event, there are a few key considerations that need to be made. 
-- [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
-- Organising Team - Who will be helpding you organise this event?
-- Theme - What type of problem are you looking to solve?
-- Title - What will the event be called?
-- Format - How many hours/days will you run the event for?
-- Date and Time - When will it be held?
-- Venue - Where will it be held? 
-- Finances/ Budget / Sponsorship - How are you going to finance the event?
-- Speakers / Judges - Who will be speaking?
-- Prizes - What will the attendees be awarded?
-
-## Marketing
-- Duration
-- Website
-- Social Media Channels
-
-## During the Event
-- Preparation (Chairs / Wifi / Powe sockets/ Registration / Dietary / XX) 
-- Sample agenda picture again
-- Organising Team - (MC with time constraints / Logisitics / Social media ) 
-- Presenting the problem...
-- Arrival of the guests (Telegram)
-- Following the Format
-- Catering (Food and drinks) 
-- Format of the presentation at the end of the day 
-- During the Pitch (MC / Time constraints)
-- End of the Pitch + Celebration/Networking
-
-## After the Event
-- Packing up ( Dishes / Chairs / Cleaning)
-- Thank you + Keeping in touch with the attendees
-- Follow up content 
-- 
 
 ## Reason 
 XXX
@@ -97,7 +104,6 @@ Below are a list of past Blockathons:
 
 
 ## Title and Description
-
 Give your event a catchy name that represents your theme and will stick in the minds of developers/participants.
 
 Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and outcome of the blockathon.
