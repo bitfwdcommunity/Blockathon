@@ -21,8 +21,9 @@ The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 - Venue - Where will it be held? 
 - Budgetting - How much money will you require?
 - Sponsorship - How are you going to finance the event?
-- Speakers / Judges / Mentors - Who will be speaking?
+- Speakers / Judges / Mentors - Who will be speaking, judging and helping out?
 - Prizes - What will the attendees be awarded?
+- Merchandise / Swag - Will you have some awesome tshirts/stickers to give to your team + attendees?
 
 ## Marketing
 - Duration / 2 Weeks before... / 3 - 4 weeks 
@@ -30,46 +31,28 @@ The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 - Info pack (Link to telegram / schedule / XXX)- VEGANISM 
 - EDM + Eventbrite 
 - Social Media Channels - Facebook Event
-
  BUY TICKET
- INFO PACK 
- GOOGLE FORM 
- 
+ Send them an INFO PACK + Fill Google Form 
  
 ## During the Event
-- Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Registration / Dietary / XX) 
-- Sample agenda picture again
 - Organising Team - (MC with time constraints / Logisitics / Social media ) + a few main people + vollies
-- Presenting the problem... (Keynote person)
-- Arrival of the guests (Telegram + NAME TAGS) 
-- Following the Format
-- Catering (Food and drinks / Budgetting) 
-- Pitch + Judgin criteria (5 minutes+ show crtieriar a week before / infopack)
-- During the Pitch (MC / Time constraints / Timer on iPAd)
-- End of the Pitch (judging sheets / MC) - GeT FOOD during this. 
-- Prize + TY for the judges (Trezor)
+- Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Name Tags / Dietary / XX) 
+- Arrival of the guests (NAME TAGS) 
+- Presenting the problem + criteria of the end pitch... (Keynote person)
+- HACK !!!!!! + Mentor
+- Catering (Food and drinks) 
+- Pitch time
+- During the Pitch (MC / Time constraints / Timer on iPad)
+- End of the Pitch (Judging sheets / MC) - Get food during this. 
+- Prize to guests + TY for the judges (Trezor)
 - Celebration/Networking
-
-Low budget: 
-- Supermarket - bulk / online deliveries
-- Bread / Cereal Milk / 
-- Snacks - biscuits / sugar
-- Roast chicken for sandies
-30 people = $400-500 AUD 
-
-Medium
-- Order restaurant for deals ( buritos / suhsi / sandiwhces / falafel and wraps / XXX)
-
-High
-- High end catering if you want to impress corproate faggots + dollar dollar bills + Champagne every day. 
 
 ## After the Event
 - Packing up ( Dishes / Chairs / Cleaning) 
-- Follow up with yoru own sposnrso + thank you 
-
+- Follow up with your own sponsors + thank you 
+- Get some sleep 
 - Improvement form 
 - Thank you + Keeping in touch with the attendees
-
 - Follow up content 
 - 
 
@@ -111,7 +94,6 @@ Below are a list of past Blockathons:
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
 
-
 ## Title and Description
 Give your event a catchy name that represents your theme and will stick in the minds of developers/participants.
 
@@ -119,13 +101,11 @@ Provide a detailed, but concise description of your event.  Generally 250-750 ch
 
 ## Format
 The formats for hackathons depend on the organisers.  Usually they revolve around two formats:
-
 * Hack Day - 12 to 24 hour timeframe
 * Hack Weekend - 24 to 48 hour timeframe
 * Online Hack - Any time frame...
 
 Within this schedule several hackathon components can be applied:
-
 * Opening Ceremonies
 * Networking
 * Sponsor Presentations
@@ -169,13 +149,13 @@ Blockathons come in all sizes from as small as 5-10 people to 200 people. When i
 
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
-
 ## Accessibility / Dietary Requirements
-Text...
+- Text...
 
 ## Budgetting
-
-
+- Text
+- Text
+- 
 
 ## Sponsorship
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. 
@@ -358,14 +338,25 @@ You will need swag and merchandise.
 * T-Shirts
 * Stickers
 
-## Food Considerations
+## Food Considerations 🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+Low budget: 
+- Supermarket - bulk / online deliveries
+- Bread / Cereal Milk / 
+- Snacks - biscuits / sugar
+- Roast chicken for sandies
+30 people = $400-500 AUD 
+
+Alcohol - 60 - 80 $10 / pp
+
+Medium
+- Order restaurant for deals ( buritos / suhsi / sandiwhces / falafel and wraps / XXX)
+
+High
+- High end catering if you want to impress corproate faggots + dollar dollar bills + Champagne every day. 
 
 Food and drink is one of the connecting elements of hackathons.  Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
 
-Make the food at your hackathon a healthy, fulfilling experience for attendees. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
-
-### Dietary requirements
-Not everyone in the technical community is hypercarnivorous. Be sure to check with your attendees for dietary requirements: food allergies, vegetarians, vegans and people with dietary restrictions. Make provisions to ensure they are provided for equally. If you’re on a budget, prioritise allergies and vegan alternatives; the vegan alternative will satisfy most non-allergy based requirements. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+Make the food at your hackathon a healthy, fulfilling experience for attendees. 
 
 ### Breakfast
 If your event starts before 11am you should provide breakfast to attendees, either continental or cooked. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
