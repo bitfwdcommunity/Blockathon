@@ -34,7 +34,7 @@ Blockathons typically last between a day to a week in length, depending on the e
 Amazing, you are thinking of hosting your own Blockathon!✌️
 
 Before you planning your event, there are a few key considerations that need to be made. 
-- Reason - Why are you hosting a Blockathon? (Optional...)
+- [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
 - Organising Team - Who will be helpding you organise this event?
 - Theme - What type of problem are you looking to solve?
 - Title - What will the event be called?
@@ -44,19 +44,22 @@ Before you planning your event, there are a few key considerations that need to 
 - Finances/ Budget / Sponsorship - How are you going to finance the event?
 - Speakers / Judges - Who will be speaking?
 - Prizes - What will the attendees be awarded?
-- Marketing - How are you going to market your event and get people to come?
-- 
+
+## Marketing
+- Duration
+- Website
+- Social Media Channels
 
 ## During the Event
 - Preparation (Chairs / Wifi / Powe sockets/ Registration / Dietary / XX) 
 - Sample agenda picture again
-- Organising Team - (MC / Logisitics / Social media ) 
+- Organising Team - (MC with time constraints / Logisitics / Social media ) 
 - Presenting the problem...
 - Arrival of the guests (Telegram)
 - Following the Format
 - Catering (Food and drinks) 
 - Format of the presentation at the end of the day 
-- During the Pitch 
+- During the Pitch (MC / Time constraints)
 - End of the Pitch + Celebration/Networking
 
 ## After the Event
@@ -121,16 +124,16 @@ Within this schedule several hackathon components can be applied:
 * Award Ceremonies
 * After Party
 
-(Perhaps add a sample schedule here..)
+(Perhaps add a sample agenda/schedule here..)
 
 This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
-## Date, Time and Venue
-
+## Date and Time
 The date can have significant influence on how well it is attended and how much impact it has. Community blockathons are typically held on weekends when people are not working. So it is necessary to choose a date to allow yourself to promote and have the attendees clear their schedule. Also best to avoid any public weekends / holidays as people will be away on vacation during that time. Also make sure that the event does not clash with any other events within the Blockchain community and that it is promoted well in advance. 
 
 For time, clear the schedule of your event to participants in advance. If you choose a 9am start time, expect 20% to show up at 10am. Having an itinerary published at event signup will help make sure you can get started earlier. Schedule reception type activities at the beginning of the day to allow for some late arrivals.
 
+## Venue
 The venue is also crucial to the atmosphere of the event. Most blockathons are held in a co-working space or an Innovation Hub area which is easy to get to. The place should also represents the theme of the Blockchain culture of innovation and creating something new for the world!
 
 * Food area + bins 
@@ -152,11 +155,6 @@ Blockathons come in all sizes from as small as 5-10 people to 200 people. When i
 
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
-A sample guide for a day hackathon is as below:
-
-* Insert image of sample agenda
-
-## Choose a Venue
 
 ### Accessibility / Dietary Requirements
 
@@ -169,43 +167,29 @@ Unless you have a budget for Hackathons, you will want to find a sponsor for you
 
 In addition to providing a good working space for your attendees, it’s a good idea to provide plenty of food.  Not only will your attendees appreciate the gesture, but you want them to be able to focus on their projects without the distraction of leaving to get food and drinks.  For a one-day event starting in the morning, be prepared to provide coffee and pastries in the morning, a nutritious lunch with beverages, and snacks, water and cold beverages through the day. 
 
-From our experience in various cities in BC, we had 30 attendees on average. We have had as many as 60 and as few as 12.  Plan on spending $300 to $400 on food and beverages, depending on the number of attendees to your event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+From our experience with various cities in BC, we had from 30 attendees to 150. For 30 attendees and an one day blockathon, we spent approximately $250 on lunch + $50 Snacks + $XX on beer. 
 
-How much did we budget for Food and drinks...
+Add more info...
 
+When you talk to prospective sponsors about your event, they may have never heard of Blockathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  Think about how they can benefit from your Hackathon so you can explain to them.  Benefits may include:
 
-When you talk to prospective sponsors about your event, they may have never heard of Hackathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  
-
-Before you go to talk to your prospective sponsor, think about how they can benefit from your Hackathon so you can explain to them.  Benefits may include:
-
-* positive exposure from the event
-* being associated with open data
-* being able to meet and talk with the Hackathon attendees
-* having attention paid to their particular business area
-* exposure for their open data efforts
-* having prototype apps created using their data
+* Being associated with their brand name
+* Being able to meet and talk with the Blockathon attendees
+* Having attention paid to their particular business area
+* Exposure for their open data efforts
+* Having prototype apps created using their API/data
 
 Be sure to let them know that you’d like to thank them publicly for their support, both on your Hackathon web page and via your social media.  Sometimes event sponsors are happy to help out but are not comfortable with the more public forms of gratitude such as Twitter and Facebook, so be sure you have their permission to mention them in social media.  You want to show thanks in a way that works for them.
-
-The types of organizations that are often happy to help out are:
-* Information Technology vendors
-* local and provincial governments
-* local businesses
-* software development firms
-* trade associations
-* educational institutions
-
-In some cases, you may find an organization that would like to provide the food, but doesn’t have a venue.  In other cases, you may find someone who is willing to provide a venue but not a budget for food.  It works fine for you to have two (or more) sponsoring organizations and and recognize them both. 
 
 Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them. 
 
 ## Speakers and Judges
 
-Speakers and Judges are in important piece of hackathons.  Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
+Speakers and judges are in important piece of hackathons. Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
 
 Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate. 
 
-Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the hackathon and coordinating with all scheduled speakers.
+Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the event and coordinating with all scheduled speakers.
 
 ### Presentations / APIS / 
 Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
@@ -234,22 +218,17 @@ Get clear licensing information from API and dataset providers ahead of time, an
 Attendees are often averse to building on top of platforms and datasets that could disappear or will incur usage fees after an event, try to avoid companies making resources available only for the duration of the event and communicate clearly the risk of building on top of any alpha or beta APIs.
 
 ### Local API testbeds Optional
+
 Where possible test servers for the APIs should be setup on the local network, this allows development to continue in the event of internet failure, and also isolates the live API’s from the increased usage the hack day will cause.
 
 ## Prizes
 
-Not every hack day needs prizes
-Some people go to hack days to learn, or to play. Having one team go home with enormous prizes and many other teams go home with nothing may sour the end of the event. Make sure it’s not all about the money/toys. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-Prizes per team member
-Prizes must be divisible to encourage teamwork: it is very hard to slice an iPod into three bits. If you wish to give away physical goods there should be enough that they may be given to each member of a reasonably sized team. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
 
-
-### Avoid service prizes
-Discounts and credit for an API, face time with a company’s CEO, or development resources to continue a hack make for poor prizes (with obvious exceptions such as of companies offering music/video streaming services or online stores) and are likely to just disappoint the winning team. When organizations/individuals wish to pursue further. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
-
-Remember, the hackathon is about the winner or prizes.  Its the experience! [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Remember, the hackathon is not about the winner or prizes.  It's about the learning, experience and community :)
 
 # MARKETING
+Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
 
 ## Website
 
