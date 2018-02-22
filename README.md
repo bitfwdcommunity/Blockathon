@@ -7,8 +7,10 @@ This is an open source template for organizing your own Blockathon.
 
 We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
 
-# Table of Contents
+The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
+# Table of Contents
+## What is a Blockathon
 ## Before the Event 
 - [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
 - Organising Team - Who will be helpding you organise this event?
@@ -17,35 +19,43 @@ We wanted to provide a single README file with as much support material as possi
 - Format - How many hours/days will you run the event for?
 - Date and Time - When will it be held?
 - Venue - Where will it be held? 
-- Finances/ Budget / Sponsorship - How are you going to finance the event?
+- Budgetting - How much money will you require?
+- Sponsorship - How are you going to finance the event?
 - Speakers / Judges / Mentors - Who will be speaking?
 - Prizes - What will the attendees be awarded?
 
 ## Marketing
 - Duration / 2 Weeks before... / 3 - 4 weeks 
 - Website
-- Info pack (Link to telegram / schedule / XXX)
+- Info pack (Link to telegram / schedule / XXX)- VEGANISM 
 - EDM + Eventbrite 
 - Social Media Channels - Facebook Event
+
+ BUY TICKET
+ INFO PACK 
+ GOOGLE FORM 
+ 
  
 ## During the Event
 - Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Registration / Dietary / XX) 
 - Sample agenda picture again
-- Organising Team - (MC with time constraints / Logisitics / Social media ) 
-- Presenting the problem...
-- Arrival of the guests (Telegram)
+- Organising Team - (MC with time constraints / Logisitics / Social media ) + a few main people + vollies
+- Presenting the problem... (Keynote person)
+- Arrival of the guests (Telegram + NAME TAGS) 
 - Following the Format
-- Catering (Food and drinks ) 
-- Format of the presentation at the end of the day 
-- During the Pitch (MC / Time constraints)
-- End of the Pitch + Celebration/Networking
+- Catering (Food and drinks / Budgetting) 
+- Pitch + Judgin criteria (5 minutes+ show crtieriar a week before / infopack)
+- During the Pitch (MC / Time constraints / Timer on iPAd)
+- End of the Pitch (judging sheets / MC) - GeT FOOD during this. 
+- Prize + TY for the judges (Trezor)
+- Celebration/Networking
 
 Low budget: 
 - Supermarket - bulk / online deliveries
 - Bread / Cereal Milk / 
 - Snacks - biscuits / sugar
 - Roast chicken for sandies
-30 people = $400-500
+30 people = $400-500 AUD 
 
 Medium
 - Order restaurant for deals ( buritos / suhsi / sandiwhces / falafel and wraps / XXX)
@@ -54,17 +64,16 @@ High
 - High end catering if you want to impress corproate faggots + dollar dollar bills + Champagne every day. 
 
 ## After the Event
-- Packing up ( Dishes / Chairs / Cleaning)
+- Packing up ( Dishes / Chairs / Cleaning) 
+- Follow up with yoru own sposnrso + thank you 
+
+- Improvement form 
 - Thank you + Keeping in touch with the attendees
+
 - Follow up content 
 - 
 
-The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
-
-# Overview
-
 ## What is a Blockathon?
-
 Blockathon = Blockchain + Hackathon. 
 
 Blockchain encompassing the technology driving the new age of trust and decentralisation and hackathon being an event in which anyone from any field can come together and work on a project in a given timeframe. By combining the two, you get an event where people come together and work on meaningful projects for the Blockchain.
@@ -109,7 +118,6 @@ Give your event a catchy name that represents your theme and will stick in the m
 Provide a detailed, but concise description of your event.  Generally 250-750 characters is sufficient to explain the theme and outcome of the blockathon.
 
 ## Format
-
 The formats for hackathons depend on the organisers.  Usually they revolve around two formats:
 
 * Hack Day - 12 to 24 hour timeframe
@@ -153,7 +161,7 @@ The venue is also crucial to the atmosphere of the event. Most blockathons are h
 * Wifi
 * Power sockets + safety
 * Audio + visual 
-* Microphone + 
+* Microphone 
 * Projectors
 * Enough utensils
 
@@ -162,13 +170,14 @@ Blockathons come in all sizes from as small as 5-10 people to 200 people. When i
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
 
-### Accessibility / Dietary Requirements
+## Accessibility / Dietary Requirements
+Text...
 
+## Budgetting
 
 
 
 ## Sponsorship
-
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. 
 
 In addition to providing a good working space for your attendees, it’s a good idea to provide plenty of food.  Not only will your attendees appreciate the gesture, but you want them to be able to focus on their projects without the distraction of leaving to get food and drinks.  For a one-day event starting in the morning, be prepared to provide coffee and pastries in the morning, a nutritious lunch with beverages, and snacks, water and cold beverages through the day. 
