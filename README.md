@@ -7,7 +7,7 @@ This is an open source template for organizing your own Blockathon.
 
 We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
 
-* Links to all the below points (Prizes / Format / etc...)
+# Table of Contents
 * Before the Event + sublinks below
 * During the Event + sublinks below
 * After the Event + sublinks below
@@ -26,16 +26,11 @@ Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Expe
 
 The only way to grow in life is by XXX.
 
-Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.[[1](https://github.com/kinlane/hack-weekends-guide#1-wikipedia---httpenwikipediaorgwikihackathon)]
-
-## Why Blockchain?
-Talk about Blockchain + community...
-
+Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
 
 # Hackathon Planning
 
 ## Before the Event 
-
 Amazing, you are thinking of hosting your own Blockathon!✌️
 
 Before you planning your event, there are a few key considerations that need to be made. 
@@ -44,7 +39,8 @@ Before you planning your event, there are a few key considerations that need to 
 - Theme - What type of problem are you looking to solve?
 - Title - What will the event be called?
 - Format - How many hours/days will you run the event for?
-- Date, Time and Venue - When and where will it be held?
+- Date and Time - When will it be held?
+- Venue - Where will it be held? 
 - Finances/ Budget / Sponsorship - How are you going to finance the event?
 - Speakers / Judges - Who will be speaking?
 - Prizes - What will the attendees be awarded?
@@ -54,14 +50,17 @@ Before you planning your event, there are a few key considerations that need to 
 ## During the Event
 - Preparation (Chairs / Wifi / Powe sockets/ Registration / Dietary / XX) 
 - Sample agenda picture again
+- Organising Team - (MC / Logisitics / Social media ) 
 - Presenting the problem...
 - Arrival of the guests (Telegram)
 - Following the Format
-- Catering (Food and drinks)
-- Organising Team - (MC / Social media ) 
+- Catering (Food and drinks) 
 - Format of the presentation at the end of the day 
+- During the Pitch 
+- End of the Pitch + Celebration/Networking
 
 ## After the Event
+- Packing up ( Dishes / Chairs / Cleaning)
 - Thank you + Keeping in touch with the attendees
 - Follow up content 
 - 
@@ -84,14 +83,14 @@ The best themes are the ones that are most relevant to your  audience and consid
 
 Example themes include: Art, Civic, Data, Education, Games, Green Energy, Health, Journalism, Language, Mobile, Movies, Music, Photos, Politics, Robotics, Science, Sports and Water
 
+This theme will tie into what they will be solving and if there are specific APIs / plguisn that will be used ...
+
 Your hackathon attendees will appreciate you putting a lot of thought into your theme 🙂
 
 Below are a list of past Blockathons:
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
-
-API etc. / List of problems
 
 
 ## Title and Description
@@ -147,6 +146,7 @@ The venue is also crucial to the atmosphere of the event. Most blockathons are h
 * Audio + visual 
 * Microphone + 
 * Projectors
+* Enough utensils
 
 Blockathons come in all sizes from as small as 5-10 people to 200 people. When it comes to blockathons, bigger isn't always better, but conducting larger events without proper experience and resources can be a major disaster. Keep size in line with your over goal for throwing a blockathon.
 
@@ -199,13 +199,13 @@ In some cases, you may find an organization that would like to provide the food,
 
 Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them. 
 
-## Speakers
+## Speakers and Judges
 
-Speakers are in important piece of hackathons.  Often times speakers are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
+Speakers and Judges are in important piece of hackathons.  Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
 
-Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate. 
 
-Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the hackathon and coordinating with all scheduled speakers. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the hackathon and coordinating with all scheduled speakers.
 
 ### Presentations / APIS / 
 Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
@@ -216,9 +216,7 @@ All APIs should provide client libraries in at least three of the major language
 
 (And if you haven’t got the client libraries written, maybe you need an internal hack day to write them!)
 
-
 Datasets provided for use in the hack day should, where possible, be checked in advance by someone technical to ensure they are well structured and in a sensible format (CSV, XML, JSON, RDF etc., rather than Excel spreadsheets and PDFs).
-
 
 All APIs and datasets should have thorough documentation, detailing format, any codes or abbreviations, as well as the underlying assumptions and business logic of what it represents. The documentation should be checked by someone technical before announcing the API.
 
