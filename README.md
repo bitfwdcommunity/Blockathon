@@ -198,6 +198,10 @@ You may also want to consider getting special tshirts, stickers and other mercha
 #
 <img src="![marketingbanner](https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg)" align="center" >
 
+<img src="https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg"> 
+
+<img src="https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg" align="center"> 
+
 <img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
 # MARKETING
