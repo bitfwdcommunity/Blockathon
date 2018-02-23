@@ -55,7 +55,7 @@ During the Event
 - 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
-<img src="https://user-images.githubusercontent.com/16810128/36579729-c8d99210-18b8-11e8-82da-0dfcd60a19fd.PNG"> 
+<img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
@@ -72,10 +72,10 @@ Blockathons typically last between a day to a week in length, depending on the e
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
-<img src="https://user-images.githubusercontent.com/16810128/36579744-dbcade2e-18b8-11e8-877d-294c4a760de2.PNG"> 
+<img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
-Before the event...
+Before the event text blurb
 
 ## Reason 
 XXX
