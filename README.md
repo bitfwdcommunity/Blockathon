@@ -105,22 +105,7 @@ The formats for hackathons depend on the organisers.  Usually they revolve aroun
 * Hack Weekend - 24 to 48 hour timeframe
 * Online Hack - Any time frame...
 
-Within this schedule several hackathon components can be applied:
-* Opening Ceremonies
-* Networking
-* Sponsor Presentations
-* Other Presentation
-* Idea Pitches
-* Team Formation
-* HACKING 💻  
-* Project Presentations
-* Judging
-* Award Ceremonies
-* After Party
-
-(Perhaps add a sample agenda/schedule here..)
-
-One Day Hack Example
+Hack Day Example
 
 | Time  | Agenda |
 | --- | --- |
@@ -162,21 +147,19 @@ The venue is also crucial to the atmosphere of the event. Most blockathons are h
 * Projectors
 * Enough utensils
 
-Blockathons come in all sizes from as small as 5-10 people to 200 people. When it comes to blockathons, bigger isn't always better, but conducting larger events without proper experience and resources can be a major disaster. Keep size in line with your over goal for throwing a blockathon.
+Blockathons come in all sizes from as small as 5-10 people to 200 people. Bigger isn't always better, but conducting larger events without proper experience and resources can be a major disaster. Keep size in line with your over goal for throwing a blockathon.
 
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
 ## Budgetting
 Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. 
 
+Include Sample Budgetting...
+
 ## Sponsorship
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. 
 
 In addition to providing a good working space for your attendees, it’s a good idea to provide plenty of food.  Not only will your attendees appreciate the gesture, but you want them to be able to focus on their projects without the distraction of leaving to get food and drinks.  For a one-day event starting in the morning, be prepared to provide coffee and pastries in the morning, a nutritious lunch with beverages, and snacks, water and cold beverages through the day. 
-
-From our experience with various cities in BC, we had from 30 attendees to 150. For 30 attendees and an one day blockathon, we spent approximately $250 on lunch + $50 Snacks + $XX on beer. 
-
-Add more info...
 
 When you talk to prospective sponsors about your event, they may have never heard of Blockathons.  They will want to know what to expect, so be prepared to explain a bit about Hackathons as well as about your cause.  Think about how they can benefit from your Hackathon so you can explain to them.  Benefits may include:
 
@@ -190,16 +173,20 @@ Be sure to let them know that you’d like to thank them publicly for their supp
 
 Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them. 
 
-## Speakers and Judges
+## Speakers, Judges and Mentors
 
-Speakers and judges are in important piece of hackathons. Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
+Speakers, judges and mentors are in important piece of hackathons. Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
 
 Have a structured approach to structuring your speaker line-up.  Provide a framework for speakers to pariticpate in, providing title and abstracts for their talk within a set format and time line you dictate. 
 
-Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.  Also, identify who will be MC'ing the event and coordinating with all scheduled speakers.
+Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.
+
+For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon particpants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
+
+Insert image
 
 ### Presentations / APIS / 
-Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
+Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the community/company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
 
 The APIs pitched to attendees should be checked in advance by someone technical to confirm that they are suitable, work, and are of a high enough quality.
 
@@ -233,6 +220,12 @@ Where possible test servers for the APIs should be setup on the local network, t
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
 
 Remember, the hackathon is not about the winner or prizes.  It's about the learning, experience and community :)
+
+## Swag and Merchandie
+You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
+
+
+INSERT BANNER
 
 # MARKETING
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
