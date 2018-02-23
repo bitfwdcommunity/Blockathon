@@ -127,7 +127,14 @@ One Day Hack Example
 | 900-930AM  | Set up of venue   |
 | 930-1030AM  | Breakfast + Registration + Welcome  |
 | 1030-1100AM  | Introduction + Team Building Exercise |
-| 1100-1130AM  | Keynote Talk  |
+| 1100-1130AM  | Keynote Talk + Presentation of problem|
+| 1130-1200PM  | Team Formation Exercise |
+| 1200-1230PM  | Lunch |
+| 1230-500PM   | Hack! |
+| 500-545PM    | Pitches |
+| 545-600PM    | Judges Discussion for winners |
+| 600-615PM    | Presentation + Prizes |
+| 615-700PM+   | Afterparty drinks |
 
 
 This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
