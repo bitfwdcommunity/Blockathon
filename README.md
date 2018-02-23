@@ -207,6 +207,7 @@ You may also want to consider getting special tshirts, stickers and other mercha
 <img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community. However, if there are particular groups you would like to have attend (developers or industry experts), you will want to think about where best to reach out to them to be sure they know about the event.
 
 ## Landing Page 
@@ -234,7 +235,7 @@ A formal registration process for the hackathon should setup to handle attendees
 
 A registration process will give you the necessary tools to manage your attendees and understand the scope of your event--as well as give your participants the feeling of organization around the whole process. 
 
-The 'stack' that has worked well for us has been:
+The bitfwd 'stack' that has worked well for us has been:
 * Creating a Facebook event with the description - This is for awareness
 * Creating an Eventbrite ticket or Google Form link for registration and detail collection
 * Send an information pack 1 week before the event to all the registrants
@@ -249,11 +250,12 @@ When you require your attendees to register, make it clear what information is r
 If there’s a waiting list for the event, make sure to explain how it works.
 
 ## Distribution and Spreading the Word
-The most important part is getting as many participants coming to your event! So distribtuo
+The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media nad messaging platforms will help you promote your event to the right audience.
 
 Email
 
 Telegram
+With Blockchain, Telegram is 
 
 Twitter
 
@@ -456,123 +458,68 @@ Concentration is the stage where people are actively working on their projects. 
 
 One of the most important tasks of the facilitator and the organizing team is to make sure everyone who wants to participate gets the opportunity to participate.  Sometimes at this stage there will still be a few people who are not participating.  This may be because they don’t feel they have anything to contribute, or because they are there to watch and don’t want to participate.  It’s worthwhile having a quick conversation with them to see if they are in the first camp.  If so, you can connect them with one of the groups so they can be part of the project, even if it’s just for idea generation and discussion.   [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-If they are in the second camp, where they don’t really want to participate, then let them know it’s fine to observe.   [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+If they are in the second camp, where they don’t really want to participate, then let them know it’s fine to observe.   
 
 ## Show and Tell
-The Show-and-Tell section is pretty straightforward.  It gives people an opportunity to show what they have worked on and get some feedback from the larger group. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+The Show-and-Tell section is pretty straightforward.  It gives people an opportunity to show what they have worked on and get some feedback from the larger group. 
 
-In preparation for this stage of the hackathon, you will want to have the projector set up, and accessible for people to easily connect to with their laptop.  [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+In preparation for this stage of the hackathon, you will want to have the projector set up, and accessible for people to easily connect to with their laptop.  
 
-When the show-and-tell time arrives, ask folks to finish up with what they are working on and ask for volunteers to show their project.  Have your projector ready, and ask folks to come up to the front of the room one by one (or group by group) and show what they have worked on.  The facilitator should encourage questions and be prepared to ask some questions of their own. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+When the show-and-tell time arrives, ask folks to finish up with what they are working on and ask for volunteers to show their project.  Have your projector ready, and ask folks to come up to the front of the room one by one (or group by group) and show what they have worked on.  The facilitator should encourage questions and be prepared to ask some questions of their own. 
 
-People are often keen to show what they have done but again, it’s totally voluntary.  If someone has worked on something but isn’t comfortable showing it the facilitator can offer to show it for them, but since most projects have been worked on by teams, there will often be at least one person in each group that is comfortable and willing to show it. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+People are often keen to show what they have done but again, it’s totally voluntary.  If someone has worked on something but isn’t comfortable showing it the facilitator can offer to show it for them, but since most projects have been worked on by teams, there will often be at least one person in each group that is comfortable and willing to show it. 
 
-Show-and-tell can take 30 to 60 minutes depending on the number of attendees. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Show-and-tell can take 30 to 60 minutes depending on the number of attendees.
 
-If possible, have a shared, public listing of the hacks that have been submitted. This helps the judges, the attendees and bloggers/journalists who are covering the event. Hack submissions should be as straight forward as possible. You can use Google Docs, Etherpad or a wiki. Make sure that all attendees have write access and can concurrently edit. Plan for the hack listing to stay around as a historical record. Alternatively, there are hack submission services that will handle the logistics for you like Hacker League, Hackathon.io, or WeHack.it. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+If possible, have a shared, public listing of the hacks that have been submitted. This helps the judges, the attendees and bloggers/journalists who are covering the event. Hack submissions should be as straight forward as possible. You can use Google Docs, Etherpad or a wiki. Make sure that all attendees have write access and can concurrently edit. Plan for the hack listing to stay around as a historical record. Alternatively, there are hack submission services that will handle the logistics for you like Hacker League, Hackathon.io, or WeHack.it. 
 
-Anyone who hacks should be a allowed to demo at the end of the event, regardless of the quality or completeness. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+Anyone who hacks should be a allowed to demo at the end of the event, regardless of the quality or completeness. 
 
 ### Time limit
-Each demo should be given a fixed time limit, standard times are 60, 90, 180, and 300 seconds. Tell presenters ahead of time, let them know how much time remains (either half time cards or an on-screen count down), and don’t let them run over. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+Each demo should be given a fixed time limit, standard times are 60, 90, 180, and 300 seconds. Tell presenters ahead of time, let them know how much time remains (either half time cards or an on-screen count down), and don’t let them run over. 
 
 ### Clear Expectations
-Try and communicate clear expectations for the demos to all attendees from the beginning of the event. Some attendees will become frustrated when they see others demo-ing paper prototypes or Photoshop mockups when they believed a working implementation was required. If hacks do not meet these base requirements, they should not be able to win a prize. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+Try and communicate clear expectations for the demos to all attendees from the beginning of the event. Some attendees will become frustrated when they see others demo-ing paper prototypes or Photoshop mockups when they believed a working implementation was required. If hacks do not meet these base requirements, they should not be able to win a prize. 
 
 ### Audience Vote
-If you have an “audience choice” prize, someone will attempt to game the system, either technically or by running an obnoxious “vote for me” campaign. Keep the prize for it relatively small, and give attendees a one-time token (a code on the reverse of their pass for large events, or a physical item for smaller ones) in order to vote. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+If you have an “audience choice” prize, someone will attempt to game the system, either technically or by running an obnoxious “vote for me” campaign. Keep the prize for it relatively small, and give attendees a one-time token (a code on the reverse of their pass for large events, or a physical item for smaller ones) in order to vote. 
 
 ## Judging
 
-If possible, let the judges meet all the teams for a few minutes, a couple of hours before the presentations. This means people don’t need to cram their whole idea in 60 seconds, but instead can demo the product to their peers knowing the judges understand how technically awesome their product is. This also allows for judges to fully inspect if a product was actually implemented, or is just a bunch of screenshots - and how technically advanced their project is. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+If possible, let the judges meet all the teams for a few minutes, a couple of hours before the presentations. This means people don’t need to cram their whole idea in 60 seconds, but instead can demo the product to their peers knowing the judges understand how technically awesome their product is. This also allows for judges to fully inspect if a product was actually implemented, or is just a bunch of screenshots - and how technically advanced their project is. 
 
 ## Announce Winners & Award Prizes
 
-Based upon your hackathon format, judging criteria and process you should be able to award winners of the event.   [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Based upon your hackathon format, judging criteria and process you should be able to award winners of the event.   
 
-Showcase all winners equally.  Make sure and highlight what they've done and what tools they used to accomplish their project. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Showcase all winners equally.  Make sure and highlight what they've done and what tools they used to accomplish their project. 
 
-Give out prizes and associate them to their sponsors. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+Give out prizes and associate them to their sponsors. 
 
 ## Appreciation
 
-At the end of the hackathon, you have the opportunity to: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
+At the end of the hackathon, you have the opportunity to: 
 * thank participants for their generosity - especially if your hackathon is a weekend event, and they have given up personal time to be there
 * thank the host and sponsor for providing the space and food (or whatever applies)
 * thank any data providers
 * thank any special guests
 * make your closing remarks
 
-For the closing remarks, you can mention the cause that brought you together (“open data” for example) and any upcoming events.  Also, let people know where they can get more information about the community.  If you have a mailing list or web site, now is the time to let them know about it. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+For the closing remarks, you can mention the cause that brought you together (“open data” for example) and any upcoming events.  Also, let people know where they can get more information about the community.  If you have a mailing list or web site, now is the time to let them know about it. 
 
-Lastly, declare the hackathon complete. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Lastly, declare the hackathon complete. 
 
 ## Clean Up
-Unless you and your host have an alternative agreement, be sure to leave the room in as good or better condition than when you arrived.  Doing so is important for your reputation, your sponsor’s reputation, your cause, and the willingness of your host to allow future events.  You may want to ask one or two people before the event begins if they can help, or alternatively, ask for volunteers at the end.  Usually, there will be a few people willing to lend a hand in restoring the space. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Unless you and your host have an alternative agreement, be sure to leave the room in as good or better condition than when you arrived.  Doing so is important for your reputation, your sponsor’s reputation, your cause, and the willingness of your host to allow future events.  You may want to ask one or two people before the event begins if they can help, or alternatively, ask for volunteers at the end.  Usually, there will be a few people willing to lend a hand in restoring the space. 
 
 ## Post Event Networking
-Depending on when your event ends, you may want to plan to go for a social beverage after the event at a local establishment.  This can be a great opportunity for your participants to talk some more about their projects and the new possibilities they have invented. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Depending on when your event ends, you may want to plan to go for a social beverage after the event at a local establishment.  This can be a great opportunity for your participants to talk some more about their projects and the new possibilities they have invented. 
+
+
+🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+<img src="https://user-images.githubusercontent.com/16810128/36583841-5be75288-18cb-11e8-989f-ee32352744ae.jpg"> 
+🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
 
 ## After Event
 
-Even after your event is technically over, there are still opportunities to connect with your participants.  In doing this, you can let other folks who were not able to attend know what happened (and make them wish they hadn’t missed it!).  In addition, it’s another opportunity to thank your participants, recognize what they accomplished through their participation and demonstrate progress toward the overall goals of your cause, in this case, open data. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-## Thank You
-
-When you are done.  You slept for 12 hours straight.  You have had a cup of coffee.
-
-Who do you want to thank?  Volunteers?  Assistant?  Mother?  Developers?  Venue?
-
-Make sure they hear from you.  Who are they?
-
-## Stories
-
-What stories can you tell from the hackathon experience?  Was there an overall story you could tell about the event?  Which personalities stood out?
-
-Find stories you can tell on your blog, twitter and word of mouth. Make sure everyone understand what a success the event was.
-
-You need to tell the stories, its part of the hackathon experience.
-
-## Social Connections
-
-Have you connected with every one of your hackathon attendees?  Do you know if they tweeted about your event?  You should know the primary channel of every attendee.  Are they more public on Twitter?  Are they more enterprise, and on LinkedIn?
-
-Re-enforce the connections while they are still fresh.
-
-## Update Website
-
-What does the website say 2 days after the event?  It sends a pretty strong signal to your target audience if you refresh the website to reflect what happend at the hackathon.  Can you post:
-
-* Pictures
-* Projects
-* Winners
-
-Updating the hackathon website shortly after the event, capturing the essence of what happened--then priming the pump for the next hackathon.
-
-Keep the website representing your goals around throwing the hackathon in the first place.
-
-## Return on Investment (ROI)
-
-We all want to understand the return on our investment?  Right?
-
-Well, some more than others.  Some of the hackathon experience isn't measurable.  But there are ways you can measure the success or failure of your event.
-
-Hopefully you had a pretty clear vision of what you wanted to deliver with the event:
-
-* Understanding of your platform
-* Bring attention to an issue
-* Solve a precise problem
-* Incnrease awareness of your brand
-* Acquire new talent in a specific area
-
-There are any number of reason you are throwing a hackathon.  ROI should NOT be the focus of your efforts, but you can maximize your return.
-
-Achieving your goals, or just learning enough along the way to make it all worth it!
-
-# Sources
-
-* 1 Wikipedia - http://en.wikipedia.org/wiki/Hackathon
-* 2 Hack Weekends - http://hackweekends.com/
-* 3 Open Data Hackathon How to Guide - https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit#
-* 4 The Hack Day Manifesto - http://hackdaymanifesto.com/
+Even after your event is technically over, there are still opportunities to connect with your participants.  In doing this, you can let other folks who were not able to attend know what happened (and make them wish they hadn’t missed it!).  In addition, it’s another opportunity to thank your participants, recognize what they accomplished through their participation and demonstrate progress toward the overall goals of your cause, in this case, open data. 
