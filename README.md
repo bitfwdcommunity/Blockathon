@@ -120,9 +120,10 @@ Within this schedule several hackathon components can be applied:
 
 (Perhaps add a sample agenda/schedule here..)
 
-One Day Hack Exampke
+One Day Hack Example
+
 | Time  | Agenda |
-| ------------- | ------------- |
+| --- | --- |
 | 900-930AM  | Set up of venue   |
 | 930-1030AM  | Breakfast + Registration + Welcome  |
 | 1030-1100AM  | Introduction + Team Building Exercise |
