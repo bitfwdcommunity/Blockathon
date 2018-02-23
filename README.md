@@ -26,7 +26,7 @@ Before the Event
 - [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
 
-Marketing
+[Marketing](https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg)
 - Duration / 2 Weeks before... / 3 - 4 weeks 
 - Website
 - Info pack (Link to telegram / schedule / XXX)- VEGANISM 
@@ -193,12 +193,11 @@ Remember, the hackathon is not about the winner or prizes.  It's about the learn
 ## Swag and Merchandise
 You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
 
-👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
 <img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
 
-👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
-
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 # MARKETING
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
 
