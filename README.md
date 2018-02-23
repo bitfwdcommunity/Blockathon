@@ -10,22 +10,23 @@ We wanted to provide a single README file with as much support material as possi
 The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
 # Table of Contents
-## What is a Blockathon
-## Before the Event 
+- [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
+
+Before the Event
 - [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
-- Organising Team - Who will be helpding you organise this event?
-- Theme - What type of problem are you looking to solve?
-- Title - What will the event be called?
-- Format - How many hours/days will you run the event for?
-- Date and Time - When will it be held?
-- Venue - Where will it be held? 
-- Budgetting - How much money will you require?
-- Sponsorship - How are you going to finance the event?
-- Speakers / Judges / Mentors - Who will be speaking, judging and helping out?
-- Prizes - What will the attendees be awarded?
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team) - Who will be helping you organise this event?
+- [Theme](https://github.com/bitfwdcommunity/Blockathon#theme) - What type of problem are you looking to solve?
+- [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description) - What will the event be called?
+- [Format](https://github.com/bitfwdcommunity/Blockathon#format) - How many hours/days will you run the event for?
+- [Date and Time](https://github.com/bitfwdcommunity/Blockathon#date-and-time) - When will it be held?
+- [Venue](https://github.com/bitfwdcommunity/Blockathon#venue) - Where will it be held? 
+- [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting) - How much money will you require?
+- [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship) - How are you going to finance the event?
+- [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges) - Who will be speaking, judging and helping out?
+- [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
 - Merchandise / Swag - Will you have some awesome tshirts/stickers to give to your team + attendees?
 
-## Marketing
+Marketing
 - Duration / 2 Weeks before... / 3 - 4 weeks 
 - Website
 - Info pack (Link to telegram / schedule / XXX)- VEGANISM 
@@ -90,8 +91,7 @@ This theme will tie into what they will be solving and if there are specific API
 Your hackathon attendees will appreciate you putting a lot of thought into your theme 🙂
 
 Below are a list of past Blockathons:
-* List of the past Hackathons that we have seen/run XXX ... Provide link...
-* List of the past Hackathons that we have seen/run XXX ... Provide link...
+* [MCIC Blockathon](https://mcichack.com/blockathon/)
 * List of the past Hackathons that we have seen/run XXX ... Provide link...
 
 ## Title and Description
@@ -119,6 +119,15 @@ Within this schedule several hackathon components can be applied:
 * After Party
 
 (Perhaps add a sample agenda/schedule here..)
+
+One Day Hack Exampke
+| Time  | Agenda |
+| ------------- | ------------- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Registration + Welcome  |
+| 1030-1100AM  | Introduction + Team Building Exercise |
+| 1100-1130AM  | Keynote Talk  |
+
 
 This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
@@ -149,13 +158,8 @@ Blockathons come in all sizes from as small as 5-10 people to 200 people. When i
 
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
-## Accessibility / Dietary Requirements
-- Text...
-
 ## Budgetting
-- Text
-- Text
-- 
+Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. 
 
 ## Sponsorship
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. 
