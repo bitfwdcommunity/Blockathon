@@ -218,6 +218,12 @@ A website / landing page allows you to visually board and design all the necessa
 
 This can be done by creating a github README.md file or a website / landing page. Websites and landing pages can easily be made through services such as Wordpress, Wix, SquareSpace, Unboucne or you can code it yourself 💻
 
+Below is a preview of our landing page:
+
+<img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
+
+[MCIC Blockathon](https://mcichack.com/blockathon/)
+
 ## Registration
 
 A formal registration process for the hackathon should setup to handle attendees from start to finish.  The most common tool for doing this is Eventbrite, but there are alternatives as well: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
