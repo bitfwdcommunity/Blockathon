@@ -5,14 +5,14 @@ The Ultimate Guide to your own Blockathon
 
 This is an open source template for organizing your own Blockathon.
 
-We wanted to provide a single README file with as much support material as possible. So you can easily understand the wonderful world of blockathons and begin planning and executing them within your community.
+We wanted to provide a single README file with as much support material as possible. This will help you understand what is required so you can start planning your very own awesome Blockathon!
 
 The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
 # Table of Contents
-- [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
 
 Before the Event
+- [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
 - [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
 - [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team) - Who will be helping you organise this event?
 - [Theme](https://github.com/bitfwdcommunity/Blockathon#theme) - What type of problem are you looking to solve?
@@ -24,7 +24,7 @@ Before the Event
 - [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship) - How are you going to finance the event?
 - [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges) - Who will be speaking, judging and helping out?
 - [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
-- Merchandise / Swag - Will you have some awesome tshirts/stickers to give to your team + attendees?
+- [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
 
 Marketing
 - Duration / 2 Weeks before... / 3 - 4 weeks 
@@ -185,43 +185,12 @@ For Judges and Mentors, these are people who are well respected in the Blockchai
 
 Insert image
 
-### Presentations / APIS / 
-Presentations by API and dataset providers should be kept to a minimum, try to make it a quick introduction involving the community/company name, the type of data / platform they have, and who to speak to for more information. Have technical - not marketing - people give the presentation as they will be asked technical questions, both on stage and during the rest of the event.
-
-The APIs pitched to attendees should be checked in advance by someone technical to confirm that they are suitable, work, and are of a high enough quality.
-
-All APIs should provide client libraries in at least three of the major languages unless there is good reason for them not to (such as the target platform only supporting a single language).
-
-(And if you haven’t got the client libraries written, maybe you need an internal hack day to write them!)
-
-Datasets provided for use in the hack day should, where possible, be checked in advance by someone technical to ensure they are well structured and in a sensible format (CSV, XML, JSON, RDF etc., rather than Excel spreadsheets and PDFs).
-
-All APIs and datasets should have thorough documentation, detailing format, any codes or abbreviations, as well as the underlying assumptions and business logic of what it represents. The documentation should be checked by someone technical before announcing the API.
-
-
-### Make data explorable
-Try and ensure that large datasets are accompanied by smaller sample files so attendees can check them for suitability and write parsers using a small number of records before downloading and importing multi-gigabyte files.
-
-### API Keys
-If an API requires an key to use it, then make sure that someone is on site and able to authorize the requests quickly, and with as little fuss as possible.
-
-### Licensing
-Get clear licensing information from API and dataset providers ahead of time, and communicate those licences clearly to the attendees, remembering that those in the technical community often have strong opinions about open licences for data and code.
-
-### Longevity
-Attendees are often averse to building on top of platforms and datasets that could disappear or will incur usage fees after an event, try to avoid companies making resources available only for the duration of the event and communicate clearly the risk of building on top of any alpha or beta APIs.
-
-### Local API testbeds Optional
-
-Where possible test servers for the APIs should be setup on the local network, this allows development to continue in the event of internet failure, and also isolates the live API’s from the increased usage the hack day will cause.
-
 ## Prizes
-
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
 
 Remember, the hackathon is not about the winner or prizes.  It's about the learning, experience and community :)
 
-## Swag and Merchandie
+## Swag and Merchandise
 You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
 
 
