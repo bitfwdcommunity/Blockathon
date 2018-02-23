@@ -193,6 +193,9 @@ Remember, the hackathon is not about the winner or prizes.  It's about the learn
 ## Swag and Merchandise
 You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg" style="width: 500px; height: 100px;" />
+</div>
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 #
