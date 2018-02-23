@@ -260,6 +260,10 @@ Twitter
 
 
 🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+<img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
+🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+
+
 ## Food Considerations 
 Low budget: 
 - Supermarket - bulk / online deliveries
