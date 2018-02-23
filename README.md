@@ -194,16 +194,11 @@ Remember, the hackathon is not about the winner or prizes.  It's about the learn
 You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
 
 
-INSERT BANNER 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+#
+<img src="![marketingbanner](https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg)" align="center" >
 
 <img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
-
-<img src="![marketingbanner](https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg)">
-
-
-<img src="https://user-images.githubusercontent.com/16810128/36575004-7b7a83e2-189c-11e8-9a19-436423ec2019.jpg">
-
-
 
 # MARKETING
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
