@@ -26,16 +26,13 @@ Before the Event
 - [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
 
-[Marketing](https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg)
-- Duration / 2 Weeks before... / 3 - 4 weeks 
-- Website
-- Info pack (Link to telegram / schedule / XXX)- VEGANISM 
-- EDM + Eventbrite 
-- Social Media Channels - Facebook Event
- BUY TICKET
- Send them an INFO PACK + Fill Google Form 
+Marketing
+- Landing Page
+- Registration
+- Information pack 
+- Distribution and Spreading the Word
  
-## During the Event
+During the Event
 - Organising Team - (MC with time constraints / Logisitics / Social media ) + a few main people + vollies
 - Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Name Tags / Dietary / XX) 
 - Arrival of the guests (NAME TAGS) 
@@ -58,7 +55,7 @@ Before the Event
 - 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
-<img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
+<img src="https://user-images.githubusercontent.com/16810128/36579729-c8d99210-18b8-11e8-82da-0dfcd60a19fd.PNG"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
@@ -75,7 +72,7 @@ Blockathons typically last between a day to a week in length, depending on the e
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
-<img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
+<img src="https://user-images.githubusercontent.com/16810128/36579744-dbcade2e-18b8-11e8-877d-294c4a760de2.PNG"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 Before the event...
@@ -212,9 +209,9 @@ You may also want to consider getting special tshirts, stickers and other mercha
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community. However, if there are particular groups you would like to have attend (developers or industry experts), you will want to think about where best to reach out to them to be sure they know about the event.
 
-## Website/ Landing Page 
+## Landing Page 
 
-A website / landing page allows you to visually board and design all the necessary information for your Blockathon. It will list all the details you have organised before the event. 
+A landing page allows you to visually board and design all the necessary information for your Blockathon. It will list all the details you have organised before the event. 
 
 This can be done by creating a github README.md file or a website / landing page. Websites and landing pages can easily be made through services such as Wordpress, Wix, SquareSpace, Unboucne or you can code it yourself 💻
 
@@ -222,40 +219,43 @@ Below is a preview of our landing page:
 
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
 
-[MCIC Blockathon](https://mcichack.com/blockathon/)
+[MCIC Blockathon](https://mcichack.com/blockathon/) Need to centre text
 
 ## Registration
 
-A formal registration process for the hackathon should setup to handle attendees from start to finish.  The most common tool for doing this is Eventbrite, but there are alternatives as well: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+A formal registration process for the hackathon should setup to handle attendees from start to finish. The most commonly tools are Facebook Events, Eventbrite Google Forms. Some required field would be:
 
-* [DoAttend](http://www.doattend.com)
-* [EventBee](http://www.eventbee.com)
-* [EventBrite](https://www.eventbrite.com)
-* [EventHoller](http://www.eventholler.com)
-* [HipCity](http://www.hipcity.in)
-* [SimpleTix](http://simpletix.com)
-* [SocialTables](https://www.socialtables.com)
-* [TicketTailor](http://www.tickettailor.com)
-* [TicketTool](https://tickettool.net)
+* First Name
+* Last Name
+* Email
+* How did you find out about the event?
+* Any Dietary requirements?
+* Add any other questions / fields that are required for your Blockathon
 
-A registration process will give you the necessary tools to manage your attendees and understand the scope of your event--as well as give your participants the feeling of organization around the whole process. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+A registration process will give you the necessary tools to manage your attendees and understand the scope of your event--as well as give your participants the feeling of organization around the whole process. 
 
-Popular event management platforms like EventBrite can also help you market your event and attract developers to the hackathon through a central, established calendar. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+The 'stack' that has worked well for us has been:
+* Creating a Facebook event with the description - This is for awareness
+* Creating an Eventbrite ticket or Google Form link for registration and detail collection
+* Send an information pack 1 week before the event to all the registrants
 
-When you require your attendees to register, make it clear what information is required for signing up and what the deadline for the registration is. If there’s a maximum number of attendees the venue can handle, communicate how the selection process works and when/how people will be notified if they’ve been granted attendance or not.[4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+For any other 'stacks', feel free to add below for the community :)
+* Insert stack
+* Insert stack
+* Insert stack
 
-If there’s a waiting list for the event, make sure to explain how it works.[4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+When you require your attendees to register, make it clear what information is required for signing up and what the deadline for the registration is. If there’s a maximum number of attendees the venue can handle, communicate how the selection process works and when/how people will be notified if they’ve been granted attendance or not.
 
-Most registration forms lets applicants enter name, contact details and food preferences/allergies (if applicable). Depending on your event and your venue, you might want to ask for additional information - this manifesto lists a few other topics which might make sense to add to the registration form.[4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+If there’s a waiting list for the event, make sure to explain how it works.
 
-There are also a number of things you probably should <u>not</u> ask for, like gender, religious preferences etc.[4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+## Distribution and Spreading the Word
+The most important part is getting as many participants coming to your event! So distribtuo
 
-## Marketing
+Email
 
-You will want to promote your event effectively so that you get the mix of attendees you want at your Hackathon. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+Telegram
 
- However, if there are particular groups you would like to have attend (public servants, citizen advocates, developers, students), you will want to think about where best to reach out to them to be sure they know about the event.
-
+Twitter
 
 
 
