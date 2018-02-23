@@ -56,6 +56,11 @@ Before the Event
 - Thank you + Keeping in touch with the attendees
 - Follow up content 
 - 
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+
+<img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
+
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
 ## What is a Blockathon?
 Blockathon = Blockchain + Hackathon. 
@@ -67,6 +72,13 @@ Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Expe
 The only way to grow in life is by XXX.
 
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
+
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+
+<img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
+
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+Before the event...
 
 ## Reason 
 XXX
@@ -198,17 +210,13 @@ You may also want to consider getting special tshirts, stickers and other mercha
 <img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
-# MARKETING
-Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
+Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community. However, if there are particular groups you would like to have attend (developers or industry experts), you will want to think about where best to reach out to them to be sure they know about the event.
 
-## Website
+## Website/ Landing Page 
 
-Hack Weekends guide comes with a ready to go, hackathon website to go with your event.  The website is setup as a separate branch in the Hack Weekends Guide repository.  The Hack Weekends Guide website uses the following technologies: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+A website / landing page allows you to visually board and design all the necessary information for your Blockathon. It will list all the details you have organised before the event. 
 
-* [Jekyll](https://github.com/mojombo/jekyll) - Jekyll is a blog-aware, static site generator
-* [Github Pages](http://pages.github.com/) - Github Pages provides a simple and free way to public a site on Github
-
-The Hack Weekends Guide Site can be used in conjunction with this guide to deploy a healthy, quick and low-cost web presence for your hackathon. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+This can be done by creating a github README.md file or a website / landing page. Websites and landing pages can easily be made through services such as Wordpress, Wix, SquareSpace, Unboucne or you can code it yourself 💻
 
 ## Registration
 
@@ -240,81 +248,13 @@ There are also a number of things you probably should <u>not</u> ask for, like g
 
 You will want to promote your event effectively so that you get the mix of attendees you want at your Hackathon. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-Your Hackathon attendee list will likely develop organically, which is a good approach.  However, if there are particular groups you would like to have attend (public servants, citizen advocates, developers, students), you will want to think about where best to reach out to them to be sure they know about the event. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+ However, if there are particular groups you would like to have attend (public servants, citizen advocates, developers, students), you will want to think about where best to reach out to them to be sure they know about the event.
 
-There are some tools you could use to promote your event, including:
-Twitter - if you are established on Twitter and your Hackathon fits with your normal identity and audience, then use your Twitter account to let the world know.  It may be desirable to create a new account and get help from established and relevant Twitter id’s to help you with promotion.  For example, if you are organizing a community Hackathon to benefit a community cause, connect with the Twitter mavens in your community and ask them to retweet you and otherwise spread the word. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
 
-* Facebook - you could create a Facebook page to promote your event.
-* Blogs - if you are a blogger, then write a post about your event.  Brief and succinct are usually good rules of thumb, to be sure the key information is read.  Link to registration or other relevant sites from your post.  You can also ask others who are connected to the cause for your event to blog about it.
-* Mailing Lists / Google Groups
-* Word of Mouth
-* Local Businesses
-* Local Government Officials and Representatives
 
-## Social Networking
 
-Have a social networking presence is how you will connect with your attendees, before, during and after an event.  Give your attendees several channels to connect with you, using the social network they prefer: [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
-
-* Twitter
-* Facebook
-* Github
-* LinkedIn
-* Google+
-
-Each of these social networks give you the ability to setup accounts and have a page dedicated to the event. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
-
-If you setup social networking accounts.  Make sure you keep them active and actually engage with your audience. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
-
-## Social Bookmarking
-
-Much like social networking, a hackathon audience is using popular social bookmarking tools.  Every aspect of your hackathon marketing should be syndicated to top social bookmarking platforms:
-
-* Hacker News
-* Reddit
-* StumbleUpon
-
-Make sure your social bookmarking accounts are not just syndicating only your event info.  Employ accounts that are actually syndicating and sharing a wide variety of relevant content for your audience.
-
-## Event Syndication
-
-There are several established and emerging sites for syndicating events to.  Your hackathon should have a standard event profile including:
-
-* Title
-* Description
-* Tags
-* Logo Image
-* URL
-
-This information should be used consistently across top event web sites including:
-
-* [DingBee](http://dingbee.com/)
-* [Eventful](http://eventful.com/)
-* [EventSetter](http://www.eventsetter.com/)
-* [Facebook](http://www.facebook.com/events/)
-* [Going](http://going.com/)
-* [Laynyrd](http://lanyrd.com/)
-* [Meetup](http://www.meetup.com/)
-* [Plancast](http://plancast.com/)
-* [UpComing](http://upcoming.yahoo.com/)
-* [ZEvents](http://www.zvents.com/)
-
-There are many event calendars users will use to discover new events in their local areas.  These represent a few of the top ways to market your event via event calendars.
-
-Make sure and look for local event sites in your hackathons area.
-
-## Printing
-
-You will have printing needs.
-
-## Merchandise
-
-You will need swag and merchandise.
-
-* T-Shirts
-* Stickers
-
-## Food Considerations 🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+## Food Considerations 
 Low budget: 
 - Supermarket - bulk / online deliveries
 - Bread / Cereal Milk / 
