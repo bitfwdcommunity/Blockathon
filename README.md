@@ -196,6 +196,9 @@ You may also want to consider getting special tshirts, stickers and other mercha
 
 INSERT BANNER
 
+<img src="https://user-images.githubusercontent.com/16810128/36574837-abd1b20a-189b-11e8-8a21-9213524a5f29.png)"  width="500" style="padding: 15px; height: 100; float: right; padding-center: 200;" align="center" /></a>
+
+
 # MARKETING
 Now that you have planned all the pre-requisites of the Blockathon, now it's time to start marketing the event. The aim of marketing the event is to get as many people to come 'hack' and be a part of the Blockchain community.
 
