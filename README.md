@@ -27,7 +27,7 @@ Before the Event
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
 
 Marketing
-- Landing Page
+- Landing Page.
 - Registration
 - Information pack 
 - Distribution and Spreading the Word
