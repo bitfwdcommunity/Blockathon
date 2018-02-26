@@ -19,7 +19,7 @@ Before the Event
 - [Venue](https://github.com/bitfwdcommunity/Blockathon#venue)
 - [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting)
 - [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship)
-- Pitch Format
+- [Pitch Format](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#pitch-format)
 - [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges)
 - [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes)
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise)
@@ -31,8 +31,8 @@ Marketing
 - [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) 
  
 During the Event
-- [Organising Team](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#organising-team-1) - Who will be required to help out on the day
-- [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) - What to prepare in the morning before the event starts
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#organising-team-1) 
+- [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) 
 - [Arrival](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#arival-of-attendees)
 - [Introduction + Keynote Speaker](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#introduction--keynote-speaker)
 - [Team Formation + Brainstorm activities](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#team-formation--brainstorm-exercises)
@@ -40,7 +40,7 @@ During the Event
 - [HACK !!!!!!](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#hack)
 - [Social Media](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#social-media)
 - [Code Freeze + Pitch Collection Period](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#code-freeze--pitch-collection-period)
-- [Pitch time](🔴🔴)
+- [Pitch] 
 - [End of the Pitches](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#announce-winners--prizes)
 - [Winner announcement + Thank everyone + Celebrate](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you-for-sponsors-judges-mentors-and-organising-team)
 
@@ -181,30 +181,23 @@ Understanding your budget is crucial to the running of the event. Most of the bu
 
 Make the food at your hackathon a healthy, fulfilling experience for attendees. Sample Budgets (Priced in AUD) as below:
 
-
+<strong>12 Hour Blockathon Day</strong> 
 For 12 Hour Blockathon Day
 - One Lunch + One Dinner and Drinks + Snacks
-Approx cost: $300 - 1000
+- Approx cost: $300 - 1000
 
-
-
-For 24 Hour Blockathon Day
+<strong>24 Hour Blockathon Day</strong> 
 - One Breakfast + One Lunch + One Dinner and drinks + Snacks
-Approx cost: $500 - $2000
+- Approx cost: $500 - $2000
 
-
-
-For 48 Hour Blockathon Weekend
+<strong>48 Hour Blockathon Day</strong> 
 - Two Breakfasts + Two Lunches + Two Dinners and drinks + Snacks
-Approx cost: $1000 - 10000+
-
-
+- Approx cost: $1000 - 10000+
 
 - Breakfast ideas: Waffles, Pancakes, Cereal, Toast
 - Lunch ideas: Sandwiches, Buritos, Falalel wraps, sushi, 
 - Dinner ideas: Pizza, Pick a favourite restaurant nearby and do an Uber Eats order
 - Snacks: Chips, Dips, Lollies, Tea, Coffee
-
 
 For alcohol budgetting, it is usally best to estimate $10 per person. 
 
@@ -235,7 +228,7 @@ The format of the pitches varies, but typically they follow this example format:
 - Judges should have the judging criteria sheet + pen + extra paper to write notes
 
 (Sample pitch judging document/image / URL )
-🔴🔴🔴 
+🔴🔴 
 
 ## Speakers, Judges and Mentors
 
@@ -248,8 +241,7 @@ Make sure your speaker line-up is logical and fits well with the theme and sched
 For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon particpants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
 
 <img src="https://user-images.githubusercontent.com/16810128/36648990-ae6616d8-1aed-11e8-8b14-cfd3b49d2148.PNG"> 
-Example: Blockathon Judges / Speakers
-<p align="center">🔴🔴 Example: Blockathon Judges / Speakers </p>
+<p align="center"> Example: Blockathon Judges / Speakers </p>
 
 ## Prizes
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
@@ -275,9 +267,8 @@ This can be done by creating a github README.md file or a website / landing page
 Below is a preview of our landing page:
 
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
+<p align="center">[MCIC Blockathon](https://mcichack.com/blockathon/) / Speakers </p>
 
-[MCIC Blockathon](https://mcichack.com/blockathon/) 
-🔴🔴Need to centre image
 
 ## Registration
 
@@ -316,6 +307,8 @@ The most important part is getting as many participants coming to your event! So
 Within the Blockchain community, Telegram is a very common communication channel... 
 
 <strong>Twitter</strong>
+
+Add info about information pack that goes out a week before
 🔴🔴 (Need to finish)
 
 <img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
@@ -407,7 +400,8 @@ The organising team should go around fromt iem to time to check if the blockatho
 
 ## Social Media
 Creating content during these blockathons are also important to ....
-🔴🔴🔴
+Live stream (optional)
+🔴🔴
 
 ## Code Freeze / Pitch Collection Period 
 All good things must come to an end, including the hacking. 😌
@@ -427,6 +421,8 @@ Video projector
 
 Live stream (optional)
 
+## The Pitch
+As per suggested format...
 
 Team, best to have someone at the podium, laptop 
 
@@ -435,6 +431,7 @@ After all the teams have pitched and provided with their judging feedback, the M
 Allow the rest of the audience and participants to start mingling, have some food and drinks. 
 
 After the judges are back, the MC will gather everyone around again/get them to sit down. 
+🔴🔴 Add more..
 
 ## Announce Winners + Prizes
 The judges will then announce the winners with explanation as to why they won. 
