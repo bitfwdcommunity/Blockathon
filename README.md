@@ -1,7 +1,7 @@
 The Ultimate Guide to your own Blockathon 
 ===================
 
-<a href="http://hackweekends.com/" target="_blank"><img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
+<a href="http://hackweekends.com/" target="_blank"><img src="https://user-images.githubusercontent.com/16810128/36655356-44051a54-1b16-11e8-85e3-df4df1d6d215.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
 This is an open source template for organizing your own Blockathon.
 
@@ -244,7 +244,7 @@ Below is a preview of our landing page:
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
 
 [MCIC Blockathon](https://mcichack.com/blockathon/) 
-🔴🔴Need to centre text
+🔴🔴Need to centre image
 
 ## Registration
 
@@ -392,7 +392,7 @@ AV requirements
 Video projector
  (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI 
 
-
+Live stream (optional)
 
 The pitch format:
 - Usually between 3-5 minutes 
@@ -412,7 +412,7 @@ Allow the rest of the audience and participants to start mingling, have some foo
 
 After the judges are back, the MC will gather everyone around again/get them to sit down. 
 
-## Announce Winners
+## Announce Winners + Prizes
 The judges will then announce the winners with explanation as to why they won. 
 
 
@@ -421,28 +421,37 @@ Many thanks are in order for being able to run a successful event. So after the 
 
 It is also nice to have a small gift (wine,chocolates etc.) to give to the mentors and judges for taking time out of their day to give back to the community.
 
-Now is time to party 🎉
-
-## Celebration + Networking + Food and Drinks 
-
-
-
+Then the MC will conclude the Blockathon event and invite everyone to stay for some more awesome food and drinks. 🎉🎉🎉
 
 <img src="https://user-images.githubusercontent.com/16810128/36583841-5be75288-18cb-11e8-989f-ee32352744ae.jpg"> 
-Even after your event is technically over, there are still opportunities to connect with your participants....
-## Packing up 
+Even after your event is technically over, there are still a few things to tick off the checklist
 
+## Packing up 
+After the event has concluded and the Blockathon attendees head home, it's time to pack up the venue. All the dishes, chairs and rubbish are to be placed in their rightful place. Mopping up the floors (if necessary) and putting everything back to its original 
 
 ## Get some sleep 
+Self explanatory and well earned! 😴
 
+## Follow up with your winners, judges, mentors and sponsors 
+The next day, it would be advisable to do a quick thank you email to each individual judge, mentor and sponsor for their time. 
 
-## Follow up with your sponsors 
-
+Also if there are any followups needed for the winners, it would be a great opportunity to do so / send them their prize (I.e. ETH etc.)
 
 ## Feedback Form
+While the Blockathon is still fresh in their minds, receiving feedback from your participants is also a great way to assess with the team what they did well and what they could improve on for the next Blockathon. 
 
+This can be sent through a Google Form / Typeform via Telegram or email.
+
+Questions you may want to include:
+- XXX
+- XXX
+- XXX 
+🔴🔴
 
 ## Thank you + keeping in touch with the teams
-
+A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon particpants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
 
 ## Follow up content 
+For the marketing side, there is opportunity for you to showcase how awesome your Blockathon was as well as create follow up content (Interviews/Videos/Linkedin post / Medium post). 
+
+This could be asking your attendees to create a followup video or writing a Medium article about their experience.
