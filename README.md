@@ -40,7 +40,7 @@ During the Event
 - [HACK !!!!!!](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#hack)
 - [Social Media](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#social-media)
 - [Code Freeze + Pitch Collection Period](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#code-freeze--pitch-collection-period)
-- [Pitch] 
+- [Pitch](https://github.com/bitfwdcommunity/Blockathon#the-pitch)
 - [End of the Pitches](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#announce-winners--prizes)
 - [Winner announcement + Thank everyone + Celebrate](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you-for-sponsors-judges-mentors-and-organising-team)
 
