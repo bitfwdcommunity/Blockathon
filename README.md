@@ -1,57 +1,57 @@
 The Ultimate Guide to your own Blockathon 
 ===================
 
-<a href="http://hackweekends.com/" target="_blank"><img src="http://bitfwd.com/wp-content/uploads/2017/11/bitfwd_logo.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
+<a href="http://hackweekends.com/" target="_blank"><img src="https://user-images.githubusercontent.com/16810128/36655356-44051a54-1b16-11e8-85e3-df4df1d6d215.png"  width="200" style="padding: 15px; width: 250px; float: right; padding-right: 100px;" align="right" /></a>
 
 This is an open source template for organizing your own Blockathon.
 
 We wanted to provide a single README file with as much support material as possible. This will help you understand what is required so you can start planning your very own awesome Blockathon!
 
-The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
-
 # Table of Contents
 
 Before the Event
 - [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
-- [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
-- [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team) - Who will be helping you organise this event?
-- [Theme](https://github.com/bitfwdcommunity/Blockathon#theme) - What type of problem are you looking to solve?
-- [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description) - What will the event be called?
-- [Format](https://github.com/bitfwdcommunity/Blockathon#format) - How many hours/days will you run the event for?
-- [Date and Time](https://github.com/bitfwdcommunity/Blockathon#date-and-time) - When will it be held?
-- [Venue](https://github.com/bitfwdcommunity/Blockathon#venue) - Where will it be held? 
-- [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting) - How much money will you require?
-- [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship) - How are you going to finance the event?
-- [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges) - Who will be speaking, judging and helping out?
-- [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
-- [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team)
+- [Theme](https://github.com/bitfwdcommunity/Blockathon#theme)
+- [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description)
+- [Format](https://github.com/bitfwdcommunity/Blockathon#format)
+- [Date and Time](https://github.com/bitfwdcommunity/Blockathon#date-and-time)
+- [Venue](https://github.com/bitfwdcommunity/Blockathon#venue)
+- [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting)
+- [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship)
+- [Pitch Format](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#pitch-format)
+- [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges)
+- [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes)
+- [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise)
 
 Marketing
-- [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page) - A visual board with all your blockathon information
-- [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) - How to register people for your event
-- [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - Information Pack to send before the event
-- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - How to get people to come to your event!
+- [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page)
+- [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) 
+- [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) 
+- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) 
  
 During the Event
-- Organising Team - Who will be required to help out on the day
-- Morning Preparation - What to prepare in the morning before the event starts
-- Arrival of the guests (NAME TAGS) 
-- Introduction + Keynote Speaker
-- Food
-- HACK !!!!!!
-- Pitch time
-- During the Pitch (MC / Time constraints / Timer on iPad)
-- End of the Pitch (Judging sheets / MC) - Get food during this. 
-- Prize to guests + TY for the judges (Trezor)
-- Celebration/Networking
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#organising-team-1) 
+- [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) 
+- [Arrival](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#arival-of-attendees)
+- [Introduction + Keynote Speaker](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#introduction--keynote-speaker)
+- [Team Formation + Brainstorm activities](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#team-formation--brainstorm-exercises)
+- [Food](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#food)
+- [HACK !!!!!!](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#hack)
+- [Social Media](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#social-media)
+- [Code Freeze + Pitch Collection Period](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#code-freeze--pitch-collection-period)
+- [Pitch] 
+- [End of the Pitches](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#announce-winners--prizes)
+- [Winner announcement + Thank everyone + Celebrate](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you-for-sponsors-judges-mentors-and-organising-team)
 
 After the Event
-- Packing up ( Dishes / Chairs / Cleaning) 
-- Get some sleep 
-- Follow up with your own sponsors + thank you 
-- Improvement form 
-- Thank you + Keeping in touch with the attendees
-- Follow up content 
+- [Packing up](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#packing-up)
+- [Get some sleep](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#get-some-sleep)
+- [Follow up with your winners, judges, mentors and sponsors](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-with-your-winners-judges-mentors-and-sponsors)
+- [Feedback form](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#feedback-form)
+- [Thank you + Keeping in touch with the attendees](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you--keeping-in-touch-with-the-teams)
+- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)<br />
+
 
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
 
@@ -62,16 +62,11 @@ Blockchain encompassing the technology driving the new age of trust and decentra
 
 Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Experience), Hustler (Business XX) + Academic, anyone is welcome to participate. Blockathons have been founded on the principles to further develop the Blockchain community, coming together with like-minded individuals and learning from one another.
 
-The only way to grow in life is by XXX.🔴🔴
 
-Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
+Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.<br />
 
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
-Before the event text blurb
-🔴🔴
-
-## Reason 
-🔴🔴
+A lot of planning has to be done in order to get a Blockathon rolling, but that's what this guide is for. Key considerations include who will be organising most of the vent, when and where will it be held, how much money will you have for the vent and who will be judging at the end. 
 
 ## Organising Team 
 Your organising team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
@@ -105,10 +100,9 @@ Provide a detailed, but concise description of your event.  Generally 250-750 ch
 ## Format
 The formats for hackathons depend on the organisers.  Usually they revolve around two formats:
 * Hack Day - 12 to 24 hour timeframe
-* Hack Weekend - 24 to 48 hour timeframe
-* Online Hack - Any time frame...
+* Hack Weekend - 24 to 72 hour timeframe
 
-Hack Day Example
+Hack Day Example ( 24 Hours)
 
 | Time  | Agenda |
 | --- | --- |
@@ -125,8 +119,35 @@ Hack Day Example
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks |
 
+Hack Weekend Example (48 Hours)
 
-This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
+| Time  | Agenda |
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Registration + Welcome  |
+| 1030-1100AM  | Introduction + Team Building Exercise |
+| 1100-1130AM  | Keynote Talk + Presentation of problem|
+| 1130-1200PM  | Team Formation Exercise |
+| 1200-1230PM  | Lunch |
+| 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
+
+
+| Time  | Agenda |
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Welcome  |
+| 1030-1100AM  | Review of the first 24 hours|
+| 1100-1230AM  | Hack! +  Mentoring + Any guest speakers + Dinner! |
+| 1230-100PM  | Lunch |
+| 100-430PM  | Hack!!! |
+| 430-500PM   | Code Freeze + Chillout |
+| 500-545PM    | Pitches |
+| 545-600PM    | Judges Discussion for winners |
+| 600-615PM    | Presentation + Prizes |
+| 615-700PM+   | Afterparty drinks + food|
+
+
+This is a sample agenda and represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
 ## Date and Time
 The date can have significant influence on how well it is attended and how much impact it has. Community blockathons are typically held on weekends when people are not working. So it is necessary to choose a date to allow yourself to promote and have the attendees clear their schedule. Also best to avoid any public weekends / holidays as people will be away on vacation during that time. Also make sure that the event does not clash with any other events within the Blockchain community and that it is promoted well in advance. 
@@ -158,30 +179,25 @@ Asking for pre-registration will give you and your team an indication of the num
 ## Budgetting
 Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together.
 
-Make the food at your hackathon a healthy, fulfilling experience for attendees.
+Make the food at your hackathon a healthy, fulfilling experience for attendees. Sample Budgets (Priced in AUD) as below:
 
-Sample Budgets (Priced in AUD):
-
+<strong>12 Hour Blockathon Day</strong> 
 For 12 Hour Blockathon Day
 - One Lunch + One Dinner and Drinks + Snacks
-Approx cost: $300 - 1000
+- Approx cost: $300 - 1000
 
-
-For 24 Hour Blockathon Day
+<strong>24 Hour Blockathon Day</strong> 
 - One Breakfast + One Lunch + One Dinner and drinks + Snacks
-Approx cost: $500 - $2000
+- Approx cost: $500 - $2000
 
-
-For 48 Hour Blockathon Weekend
+<strong>48 Hour Blockathon Day</strong> 
 - Two Breakfasts + Two Lunches + Two Dinners and drinks + Snacks
-Approx cost: $1000 - 10000+
-
+- Approx cost: $1000 - 10000+
 
 - Breakfast ideas: Waffles, Pancakes, Cereal, Toast
 - Lunch ideas: Sandwiches, Buritos, Falalel wraps, sushi, 
 - Dinner ideas: Pizza, Pick a favourite restaurant nearby and do an Uber Eats order
 - Snacks: Chips, Dips, Lollies, Tea, Coffee
-
 
 For alcohol budgetting, it is usally best to estimate $10 per person. 
 
@@ -202,6 +218,18 @@ Be sure to let them know that you’d like to thank them publicly for their supp
 
 Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them. 
 
+## Pitch Format
+The format of the pitches varies, but typically they follow this example format:
+
+- 5 minutes pitch time 
+- Strict time guidelines are to be addressed by measuring with the Phone timer etc.
+- First warning bells / sign at 4 minutes and second warning ball and cutoff at 5 minutes.
+- Judging time will be between 3-5 minutes as well
+- Judges should have the judging criteria sheet + pen + extra paper to write notes
+
+(Sample pitch judging document/image / URL )
+🔴🔴 
+
 ## Speakers, Judges and Mentors
 
 Speakers, judges and mentors are in important piece of hackathons. Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
@@ -213,10 +241,7 @@ Make sure your speaker line-up is logical and fits well with the theme and sched
 For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon particpants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
 
 <img src="https://user-images.githubusercontent.com/16810128/36648990-ae6616d8-1aed-11e8-8b14-cfd3b49d2148.PNG"> 
-Example: Blockathon Judges / Speakers
-
-<img src="https://user-images.githubusercontent.com/16810128/36649024-e682f73e-1aed-11e8-89e5-94103deeb220.PNG"> 
-Example: Blockathon Mentors
+<p align="center"> Example: Blockathon Judges / Speakers </p>
 
 ## Prizes
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
@@ -242,9 +267,10 @@ This can be done by creating a github README.md file or a website / landing page
 Below is a preview of our landing page:
 
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
+<p align="center">
+  [MCIC Blockathon](https://mcichack.com/blockathon/)
+</p>
 
-[MCIC Blockathon](https://mcichack.com/blockathon/) 
-🔴🔴Need to centre text
 
 ## Registration
 
@@ -275,14 +301,17 @@ When you require your attendees to register, make it clear what information is r
 If there’s a waiting list for the event, make sure to explain how it works.
 
 ## Distribution and Spreading the Word
-The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media nad messaging platforms will help you promote your event to the right audience.
+The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media and messaging platforms will help you promote your event to the right audience.
 
-Email
+<strong>Email</strong> 
 
-Telegram
+<strong>Telegram</strong>
 Within the Blockchain community, Telegram is a very common communication channel... 
 
-Twitter
+<strong>Twitter</strong>
+
+Add info about information pack that goes out a week before
+
 🔴🔴 (Need to finish)
 
 <img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
@@ -345,10 +374,10 @@ Present ideas in 1 minute
 Brainstorming
 1. Have an idea around Blockchain / Non Blockchain related
 2. Get people to form groups of 4 -5, depending on the number of attendees. Give them 5-10 minutes to form a pitch around the idea (Blockchain + Energy)
-3. 🔴🔴 Forgot how this process works...
+3. Revise how this process works...
 
 
-🔴🔴 (Robin to add pull / more info)
+🔴🔴 (Robin to add pull request/ more info)
 
 Teams are usually formed over a certain time period, but it's also great to allow them to do it over a social setting such as lunch. 
 
@@ -358,6 +387,8 @@ A meal is what brings people together and allows them to discuss really cool ide
 - Make sure that the food and drinks arrives 10 minutes before your set time of allocation. 
 - Organise enough plates, cutlery, napkins and cups
 - Organise the layout of the food and drinks so that attendees can walk around and talk to one another. (I.e. in the foyer or outside)
+
+🔴🔴 Add pictures from our Blockathon
 
 ## Hack 
 Once teams are sorted, Blockathon hacking can commence! 🎉
@@ -374,7 +405,8 @@ The organising team should go around fromt iem to time to check if the blockatho
 
 ## Social Media
 Creating content during these blockathons are also important to ....
-🔴🔴🔴
+Live stream (optional)
+🔴🔴
 
 ## Code Freeze / Pitch Collection Period 
 All good things must come to an end, including the hacking. 😌
@@ -392,17 +424,10 @@ AV requirements
 Video projector
  (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI 
 
+Live stream (optional)
 
-
-The pitch format:
-- Usually between 3-5 minutes 
-- Strict time guidelines are to be addressed by measuring with the Phone timer etc.
-- First warning bells / sign at 4 minutes and second warning ball and cutoff at 5 minutes.
-- Judging time will be between 3-5 minutes as well
-- Judges should have the judging criteria sheet + pen + extra paper to write notes
-
-(Sample pitch judging image / URL can be found here)
-🔴🔴🔴 (Should probs put pitch format in the before event section...
+## The Pitch
+As per suggested format...
 
 Team, best to have someone at the podium, laptop 
 
@@ -411,38 +436,48 @@ After all the teams have pitched and provided with their judging feedback, the M
 Allow the rest of the audience and participants to start mingling, have some food and drinks. 
 
 After the judges are back, the MC will gather everyone around again/get them to sit down. 
+🔴🔴 Add more..
 
-## Announce Winners
+## Announce Winners + Prizes
 The judges will then announce the winners with explanation as to why they won. 
-
+🔴🔴 Add more..
 
 ## Thank you for sponsors, judges, mentors and organising team
 Many thanks are in order for being able to run a successful event. So after the winners have been announced, make sure the MC thanks all the sponsors, judges mentors and the organising team for making the event possible.
 
 It is also nice to have a small gift (wine,chocolates etc.) to give to the mentors and judges for taking time out of their day to give back to the community.
 
-Now is time to party 🎉
-
-## Celebration + Networking + Food and Drinks 
-
-
-
+Then the MC will conclude the Blockathon event and invite everyone to stay for some more awesome food and drinks. 🎉🎉🎉
 
 <img src="https://user-images.githubusercontent.com/16810128/36583841-5be75288-18cb-11e8-989f-ee32352744ae.jpg"> 
-Even after your event is technically over, there are still opportunities to connect with your participants....
-## Packing up 
+Even after your event is technically over, there are still a few things to tick off the checklist
 
+## Packing up 
+After the event has concluded and the Blockathon attendees head home, it's time to pack up the venue. All the dishes, chairs and rubbish are to be placed in their rightful place. Mopping up the floors (if necessary) and putting everything back to its original 
 
 ## Get some sleep 
+Self explanatory and well earned! 😴
 
+## Follow up with your winners, judges, mentors and sponsors 
+The next day, it would be advisable to do a quick thank you email to each individual judge, mentor and sponsor for their time. 
 
-## Follow up with your sponsors 
-
+Also if there are any followups needed for the winners, it would be a great opportunity to do so / send them their prize (I.e. ETH etc.)
 
 ## Feedback Form
+While the Blockathon is still fresh in their minds, receiving feedback from your participants is also a great way to assess with the team what they did well and what they could improve on for the next Blockathon. 
 
+This can be sent through a Google Form / Typeform via Telegram or email.
 
-## Thank you + keeping in touch with the teams
+Questions you may want to include:
+- XXX
+- XXX
+- XXX 
+🔴🔴
 
+## Thank you + Keeping in touch with the teams
+A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon particpants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
 
 ## Follow up content 
+For the marketing side, there is opportunity for you to showcase how awesome your Blockathon was as well as create follow up content (Interviews/Videos/Linkedin post / Medium post). 
+
+This could be asking your attendees to create a followup video or writing a Medium article about their experience.
