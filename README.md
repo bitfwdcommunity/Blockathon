@@ -13,7 +13,6 @@ The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
 
 Before the Event
 - [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
-- [Reason](https://github.com/bitfwdcommunity/Blockathon#reason) - Why are you hosting a Blockathon?
 - [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team) - Who will be helping you organise this event?
 - [Theme](https://github.com/bitfwdcommunity/Blockathon#theme) - What type of problem are you looking to solve?
 - [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description) - What will the event be called?
@@ -54,6 +53,7 @@ After the Event
 - [Thank you + Keeping in touch with the attendees](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you--keeping-in-touch-with-the-teams)
 - [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)
 
+
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
 
 ## What is a Blockathon?
@@ -67,12 +67,11 @@ The only way to grow in life is by XXX.🔴🔴
 
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
 
+
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
 Before the event text blurb
 🔴🔴
 
-## Reason 
-🔴🔴
 
 ## Organising Team 
 Your organising team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
@@ -126,6 +125,8 @@ Hack Day Example
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks |
 
+Hack Weekend Example
+🔴🔴
 
 This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
@@ -159,13 +160,13 @@ Asking for pre-registration will give you and your team an indication of the num
 ## Budgetting
 Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together.
 
-Make the food at your hackathon a healthy, fulfilling experience for attendees.
+Make the food at your hackathon a healthy, fulfilling experience for attendees. Sample Budgets (Priced in AUD) as below:
 
-Sample Budgets (Priced in AUD):
 
 For 12 Hour Blockathon Day
 - One Lunch + One Dinner and Drinks + Snacks
 Approx cost: $300 - 1000
+
 
 
 For 24 Hour Blockathon Day
@@ -173,9 +174,11 @@ For 24 Hour Blockathon Day
 Approx cost: $500 - $2000
 
 
+
 For 48 Hour Blockathon Weekend
 - Two Breakfasts + Two Lunches + Two Dinners and drinks + Snacks
 Approx cost: $1000 - 10000+
+
 
 
 - Breakfast ideas: Waffles, Pancakes, Cereal, Toast
@@ -449,7 +452,7 @@ Questions you may want to include:
 - XXX 
 🔴🔴
 
-## Thank you + keeping in touch with the teams
+## Thank you + Keeping in touch with the teams
 A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon particpants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
 
 ## Follow up content 
