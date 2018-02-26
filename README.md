@@ -19,6 +19,7 @@ Before the Event
 - [Venue](https://github.com/bitfwdcommunity/Blockathon#venue)
 - [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting)
 - [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship)
+- Pitch Format
 - [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges)
 - [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes)
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise)
@@ -49,7 +50,7 @@ After the Event
 - [Follow up with your winners, judges, mentors and sponsors](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-with-your-winners-judges-mentors-and-sponsors)
 - [Feedback form](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#feedback-form)
 - [Thank you + Keeping in touch with the attendees](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you--keeping-in-touch-with-the-teams)
-- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)\
+- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)<br />
 
 
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
@@ -62,8 +63,7 @@ Blockchain encompassing the technology driving the new age of trust and decentra
 Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Experience), Hustler (Business XX) + Academic, anyone is welcome to participate. Blockathons have been founded on the principles to further develop the Blockchain community, coming together with like-minded individuals and learning from one another.
 
 
-Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
-<br />
+Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.<br />
 
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
 A lot of planning has to be done in order to get a Blockathon rolling, but that's what this guide is for. Key considerations include who will be organising most of the vent, when and where will it be held, how much money will you have for the vent and who will be judging at the end. 
@@ -131,6 +131,8 @@ Hack Weekend Example (48 Hours)
 | 1200-1230PM  | Lunch |
 | 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
 
+
+| Time  | Agenda |
 | --- | --- |
 | 900-930AM  | Set up of venue   |
 | 930-1030AM  | Breakfast + Welcome  |
@@ -223,6 +225,18 @@ Be sure to let them know that you’d like to thank them publicly for their supp
 
 Part of the benefit of using sponsors is of course covering the costs.  Another benefit is to increase the exposure for your cause, or associate your cause and organization with other organizations.  Remember the reputation of your cause and organization will be affected by the host and sponsor you associate with, and vice versa, so choose organizations that are well respected and easy to work with.  Be respectful, gracious and professional in your interaction with them. 
 
+## Pitch Format
+The format of the pitches varies, but typically they follow this example format:
+
+- 5 minutes pitch time 
+- Strict time guidelines are to be addressed by measuring with the Phone timer etc.
+- First warning bells / sign at 4 minutes and second warning ball and cutoff at 5 minutes.
+- Judging time will be between 3-5 minutes as well
+- Judges should have the judging criteria sheet + pen + extra paper to write notes
+
+(Sample pitch judging document/image / URL )
+🔴🔴🔴 
+
 ## Speakers, Judges and Mentors
 
 Speakers, judges and mentors are in important piece of hackathons. Often times they are representing sponsors, but you should consider workshops and other talks that are more informative and help hackathon participants succeed.
@@ -235,9 +249,7 @@ For Judges and Mentors, these are people who are well respected in the Blockchai
 
 <img src="https://user-images.githubusercontent.com/16810128/36648990-ae6616d8-1aed-11e8-8b14-cfd3b49d2148.PNG"> 
 Example: Blockathon Judges / Speakers
-
-<img src="https://user-images.githubusercontent.com/16810128/36649024-e682f73e-1aed-11e8-89e5-94103deeb220.PNG"> 
-Example: Blockathon Mentors
+<p align="center">🔴🔴 Example: Blockathon Judges / Speakers </p>
 
 ## Prizes
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
@@ -296,14 +308,14 @@ When you require your attendees to register, make it clear what information is r
 If there’s a waiting list for the event, make sure to explain how it works.
 
 ## Distribution and Spreading the Word
-The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media nad messaging platforms will help you promote your event to the right audience.
+The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media and messaging platforms will help you promote your event to the right audience.
 
-Email
+<strong>Email</strong> 
 
-Telegram
+<strong>Telegram</strong>
 Within the Blockchain community, Telegram is a very common communication channel... 
 
-Twitter
+<strong>Twitter</strong>
 🔴🔴 (Need to finish)
 
 <img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
@@ -415,15 +427,6 @@ Video projector
 
 Live stream (optional)
 
-The pitch format:
-- Usually between 3-5 minutes 
-- Strict time guidelines are to be addressed by measuring with the Phone timer etc.
-- First warning bells / sign at 4 minutes and second warning ball and cutoff at 5 minutes.
-- Judging time will be between 3-5 minutes as well
-- Judges should have the judging criteria sheet + pen + extra paper to write notes
-
-(Sample pitch judging image / URL can be found here)
-🔴🔴🔴 (Should probs put pitch format in the before event section...
 
 Team, best to have someone at the podium, laptop 
 
@@ -435,7 +438,7 @@ After the judges are back, the MC will gather everyone around again/get them to 
 
 ## Announce Winners + Prizes
 The judges will then announce the winners with explanation as to why they won. 
-
+🔴🔴 Add more..
 
 ## Thank you for sponsors, judges, mentors and organising team
 Many thanks are in order for being able to run a successful event. So after the winners have been announced, make sure the MC thanks all the sponsors, judges mentors and the organising team for making the event possible.
