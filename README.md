@@ -49,7 +49,7 @@ After the Event
 - [Follow up with your winners, judges, mentors and sponsors](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-with-your-winners-judges-mentors-and-sponsors)
 - [Feedback form](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#feedback-form)
 - [Thank you + Keeping in touch with the attendees](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you--keeping-in-touch-with-the-teams)
-- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)
+- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)\
 
 
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
