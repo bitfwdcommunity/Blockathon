@@ -27,14 +27,14 @@ Before the Event
 - [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
 
 Marketing
-- [Landing Page] (https://github.com/bitfwdcommunity/Blockathon#landing-page) - A visual board with all your blockathon information
-- [Registration] (https://github.com/bitfwdcommunity/Blockathon#registration) - How to register people for your event
-- [Information pack] (https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - Information Pack to send before the event
-- [Distribution and Spreading the Word] (https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) _ How to get people to come to your event!
+- [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page) - A visual board with all your blockathon information
+- [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) - How to register people for your event
+- [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - Information Pack to send before the event
+- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) _ How to get people to come to your event!
  
 During the Event
 - Organising Team - (MC with time constraints / Logisitics / Social media ) + a few main people + vollies
-- Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Name Tags / Dietary / XX) 
+- Morning Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Name Tags / Dietary / XX) 
 - Arrival of the guests (NAME TAGS) 
 - Presenting the problem + criteria of the end pitch... (Keynote person)
 - HACK !!!!!! + Mentor
@@ -52,12 +52,8 @@ During the Event
 - Improvement form 
 - Thank you + Keeping in touch with the attendees
 - Follow up content 
-- 
-👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
-
-👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
 ## What is a Blockathon?
 Blockathon = Blockchain + Hackathon. 
@@ -66,13 +62,13 @@ Blockchain encompassing the technology driving the new age of trust and decentra
 
 Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Experience), Hustler (Business XX) + Academic, anyone is welcome to participate. Blockathons have been founded on the principles to further develop the Blockchain community, coming together with like-minded individuals and learning from one another.
 
-The only way to grow in life is by XXX.
+The only way to grow in life is by XXX.🔴🔴
 
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
 
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
-
 Before the event text blurb
+🔴🔴
 
 ## Reason 
 🔴🔴
@@ -191,16 +187,22 @@ Make sure your speaker line-up is logical and fits well with the theme and sched
 
 For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon particpants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
 
-<img src="https://user-images.githubusercontent.com/16810128/36648969-87161358-1aed-11e8-9b4c-4098e5cb9c56.PNG"> 
+<img src="https://user-images.githubusercontent.com/16810128/36648990-ae6616d8-1aed-11e8-8b14-cfd3b49d2148.PNG"> 
+Example: Blockathon Judges / Speakers
 
+<img src="https://user-images.githubusercontent.com/16810128/36649024-e682f73e-1aed-11e8-89e5-94103deeb220.PNG"> 
+Example: Blockathon Mentors
 
 ## Prizes
 Not every hack day needs prizes so make sure it's not all about the money/toys. Some people go to hack days to learn, or to play. However if you do choose to award them prizes,make sure it is divisible to encourage teamwork. Commonly in blockathons, it is some cryptocurrencies.
+
+An example prize that we found was really cool was giving away Trezor / Ledger Nanos or prizing some ETH. 
 
 Remember, the hackathon is not about the winner or prizes.  It's about the learning, experience and community :)
 
 ## Swag and Merchandise
 You may also want to consider getting special tshirts, stickers and other merchandie for your team + attendees if it is within budget. They will serve as a really nice memory for everyone!
+
 
 <img src="https://user-images.githubusercontent.com/16810128/36575253-18ca2a66-189e-11e8-9706-25943ec3fedb.jpg"> 
 
@@ -270,9 +272,16 @@ On the day you will need to assign a few roles to make things run smoothly. It w
 * <strong>Marketing/Social Media</strong> - This person will be in charge of tweeting / posting live updates of the event. If your organization has its own Twitter or other social media accounts, you may want to consider giving this person temporary access so they can manage the social media tools for the event.
 * <strong>Other</strong>  - People to help up with the distribution of food and setting up the venue.
 
-## Preparation
-This is highly dependant on the venue but there are certain neccesities that 
+## Morning Preparation
+This is highly dependant on the venue but there are certain task that need to be done before all the attendees arrive:
 
+- Chair / Space Setup - How would you like to set up the room and the 'hacking' tables.
+- Powerpoints / plugs - Each 'hacking' table should have at least one power plug for participants to charge their laptops. Make sure the plugs are not a hazard to people's pathway
+- Wifi + Telegram Group link- Would be best to print the details onto a piece of paper and leave on all the tables 
+- List of expected attendees - To tick off during arrival
+
+## Arival of Attendees 
+Your event particants will start coming in as soon as the 
 
 ## Food Considerations 
 Low budget: 
