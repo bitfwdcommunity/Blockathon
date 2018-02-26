@@ -267,7 +267,9 @@ This can be done by creating a github README.md file or a website / landing page
 Below is a preview of our landing page:
 
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
-<p align="center">[MCIC Blockathon](https://mcichack.com/blockathon/)</p>
+<p align="center">
+  [MCIC Blockathon](https://mcichack.com/blockathon/)
+</p>
 
 
 ## Registration
