@@ -33,25 +33,26 @@ Marketing
 - [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - How to get people to come to your event!
  
 During the Event
-- Organising Team - Who will be required to help out on the day
-- Morning Preparation - What to prepare in the morning before the event starts
-- Arrival of the guests (NAME TAGS) 
-- Introduction + Keynote Speaker
-- Food
-- HACK !!!!!!
-- Pitch time
-- During the Pitch (MC / Time constraints / Timer on iPad)
-- End of the Pitch (Judging sheets / MC) - Get food during this. 
-- Prize to guests + TY for the judges (Trezor)
-- Celebration/Networking
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#organising-team-1) - Who will be required to help out on the day
+- [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) - What to prepare in the morning before the event starts
+- [Arrival](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#arival-of-attendees)
+- [Introduction + Keynote Speaker](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#introduction--keynote-speaker)
+- [Team Formation + Brainstorm activities](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#team-formation--brainstorm-exercises)
+- [Food](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#food)
+- [HACK !!!!!!](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#hack)
+- [Social Media](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#social-media)
+- [Code Freeze + Pitch Collection Period](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#code-freeze--pitch-collection-period)
+- [Pitch time](🔴🔴)
+- [End of the Pitches](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#announce-winners--prizes)
+- [Winner announcement + Thank everyone + Celebrate](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you-for-sponsors-judges-mentors-and-organising-team)
 
 After the Event
-- Packing up ( Dishes / Chairs / Cleaning) 
-- Get some sleep 
-- Follow up with your own sponsors + thank you 
-- Improvement form 
-- Thank you + Keeping in touch with the attendees
-- Follow up content 
+- [Packing up](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#packing-up)
+- [Get some sleep](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#get-some-sleep)
+- [Follow up with your winners, judges, mentors and sponsors](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-with-your-winners-judges-mentors-and-sponsors)
+- [Feedback form](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#feedback-form)
+- [Thank you + Keeping in touch with the attendees](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#thank-you--keeping-in-touch-with-the-teams)
+- [Follow up content](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#follow-up-content)
 
 <img src="https://user-images.githubusercontent.com/16810128/36579803-27b94f8c-18b9-11e8-8178-431c8edbedac.jpg"> 
 
