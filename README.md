@@ -7,29 +7,27 @@ This is an open source template for organizing your own Blockathon.
 
 We wanted to provide a single README file with as much support material as possible. This will help you understand what is required so you can start planning your very own awesome Blockathon!
 
-The Ultimate Guide to your own Blockathon ...(MIT LICENSE)
-
 # Table of Contents
 
 Before the Event
 - [What is a Blockathon](https://github.com/bitfwdcommunity/Blockathon#what-is-a-blockathon-1) 
-- [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team) - Who will be helping you organise this event?
-- [Theme](https://github.com/bitfwdcommunity/Blockathon#theme) - What type of problem are you looking to solve?
-- [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description) - What will the event be called?
-- [Format](https://github.com/bitfwdcommunity/Blockathon#format) - How many hours/days will you run the event for?
-- [Date and Time](https://github.com/bitfwdcommunity/Blockathon#date-and-time) - When will it be held?
-- [Venue](https://github.com/bitfwdcommunity/Blockathon#venue) - Where will it be held? 
-- [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting) - How much money will you require?
-- [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship) - How are you going to finance the event?
-- [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges) - Who will be speaking, judging and helping out?
-- [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes) - What will the attendees be awarded?
-- [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise) - Will you have some awesome swag to give to your team + attendees?
+- [Organising Team](https://github.com/bitfwdcommunity/Blockathon#organising-team)
+- [Theme](https://github.com/bitfwdcommunity/Blockathon#theme)
+- [Title](https://github.com/bitfwdcommunity/Blockathon#title-and-description)
+- [Format](https://github.com/bitfwdcommunity/Blockathon#format)
+- [Date and Time](https://github.com/bitfwdcommunity/Blockathon#date-and-time)
+- [Venue](https://github.com/bitfwdcommunity/Blockathon#venue)
+- [Budgetting](https://github.com/bitfwdcommunity/Blockathon#budgetting)
+- [Sponsorship](https://github.com/bitfwdcommunity/Blockathon#sponsorship)
+- [Speakers / Judges / Mentors](https://github.com/bitfwdcommunity/Blockathon#speakers-and-judges)
+- [Prizes](https://github.com/bitfwdcommunity/Blockathon#prizes)
+- [Merchandise / Swag](https://github.com/bitfwdcommunity/Blockathon/blob/master/README.md#merchandise)
 
 Marketing
-- [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page) - A visual board with all your blockathon information
-- [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) - How to register people for your event
-- [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - Information Pack to send before the event
-- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - How to get people to come to your event!
+- [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page)
+- [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) 
+- [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) 
+- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) 
  
 During the Event
 - [Organising Team](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#organising-team-1) - Who will be required to help out on the day
@@ -63,15 +61,12 @@ Blockchain encompassing the technology driving the new age of trust and decentra
 
 Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Experience), Hustler (Business XX) + Academic, anyone is welcome to participate. Blockathons have been founded on the principles to further develop the Blockchain community, coming together with like-minded individuals and learning from one another.
 
-The only way to grow in life is by XXX.🔴🔴
 
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.
-
+<br />
 
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
-Before the event text blurb
-🔴🔴
-
+A lot of planning has to be done in order to get a Blockathon rolling, but that's what this guide is for. Key considerations include who will be organising most of the vent, when and where will it be held, how much money will you have for the vent and who will be judging at the end. 
 
 ## Organising Team 
 Your organising team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
@@ -105,10 +100,9 @@ Provide a detailed, but concise description of your event.  Generally 250-750 ch
 ## Format
 The formats for hackathons depend on the organisers.  Usually they revolve around two formats:
 * Hack Day - 12 to 24 hour timeframe
-* Hack Weekend - 24 to 48 hour timeframe
-* Online Hack - Any time frame...
+* Hack Weekend - 24 to 72 hour timeframe
 
-Hack Day Example
+Hack Day Example ( 24 Hours)
 
 | Time  | Agenda |
 | --- | --- |
@@ -125,10 +119,33 @@ Hack Day Example
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks |
 
-Hack Weekend Example
-🔴🔴
+Hack Weekend Example (48 Hours)
 
-This represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
+| Time  | Agenda |
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Registration + Welcome  |
+| 1030-1100AM  | Introduction + Team Building Exercise |
+| 1100-1130AM  | Keynote Talk + Presentation of problem|
+| 1130-1200PM  | Team Formation Exercise |
+| 1200-1230PM  | Lunch |
+| 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
+
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Welcome  |
+| 1030-1100AM  | Review of the first 24 hours|
+| 1100-1230AM  | Hack! +  Mentoring + Any guest speakers + Dinner! |
+| 1230-100PM  | Lunch |
+| 100-430PM  | Hack!!! |
+| 430-500PM   | Code Freeze + Chillout |
+| 500-545PM    | Pitches |
+| 545-600PM    | Judges Discussion for winners |
+| 600-615PM    | Presentation + Prizes |
+| 615-700PM+   | Afterparty drinks + food|
+
+
+This is a sample agenda and represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
 ## Date and Time
 The date can have significant influence on how well it is attended and how much impact it has. Community blockathons are typically held on weekends when people are not working. So it is necessary to choose a date to allow yourself to promote and have the attendees clear their schedule. Also best to avoid any public weekends / holidays as people will be away on vacation during that time. Also make sure that the event does not clash with any other events within the Blockchain community and that it is promoted well in advance. 
