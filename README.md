@@ -267,7 +267,7 @@ This can be done by creating a github README.md file or a website / landing page
 Below is a preview of our landing page:
 
 <img src="https://user-images.githubusercontent.com/16810128/36579103-67bfd672-18b5-11e8-9259-320628374386.PNG"> 
-<p align="center">[MCIC Blockathon](https://mcichack.com/blockathon/) / Speakers </p>
+<p align="center">[MCIC Blockathon](https://mcichack.com/blockathon/)</p>
 
 
 ## Registration
@@ -309,6 +309,7 @@ Within the Blockchain community, Telegram is a very common communication channel
 <strong>Twitter</strong>
 
 Add info about information pack that goes out a week before
+
 🔴🔴 (Need to finish)
 
 <img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
@@ -371,10 +372,10 @@ Present ideas in 1 minute
 Brainstorming
 1. Have an idea around Blockchain / Non Blockchain related
 2. Get people to form groups of 4 -5, depending on the number of attendees. Give them 5-10 minutes to form a pitch around the idea (Blockchain + Energy)
-3. 🔴🔴 Forgot how this process works...
+3. Revise how this process works...
 
 
-🔴🔴 (Robin to add pull / more info)
+🔴🔴 (Robin to add pull request/ more info)
 
 Teams are usually formed over a certain time period, but it's also great to allow them to do it over a social setting such as lunch. 
 
@@ -384,6 +385,8 @@ A meal is what brings people together and allows them to discuss really cool ide
 - Make sure that the food and drinks arrives 10 minutes before your set time of allocation. 
 - Organise enough plates, cutlery, napkins and cups
 - Organise the layout of the food and drinks so that attendees can walk around and talk to one another. (I.e. in the foyer or outside)
+
+🔴🔴 Add pictures from our Blockathon
 
 ## Hack 
 Once teams are sorted, Blockathon hacking can commence! 🎉
