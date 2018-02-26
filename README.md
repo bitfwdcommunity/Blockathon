@@ -30,11 +30,11 @@ Marketing
 - [Landing Page](https://github.com/bitfwdcommunity/Blockathon#landing-page) - A visual board with all your blockathon information
 - [Registration](https://github.com/bitfwdcommunity/Blockathon#registration) - How to register people for your event
 - [Information pack](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - Information Pack to send before the event
-- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) _ How to get people to come to your event!
+- [Distribution and Spreading the Word](https://github.com/bitfwdcommunity/Blockathon#distribution-and-spreading-the-word) - How to get people to come to your event!
  
 During the Event
-- Organising Team - (MC with time constraints / Logisitics / Social media ) + a few main people + vollies
-- Morning Preparation (Highly dependant on venue - Chairs / Wifi / Power sockets/ Name Tags / Dietary / XX) 
+- Organising Team - Who will be required to help out on the day
+- Morning Preparation - What to prepare in the morning before the event starts
 - Arrival of the guests (NAME TAGS) 
 - Presenting the problem + criteria of the end pitch... (Keynote person)
 - HACK !!!!!! + Mentor
@@ -45,10 +45,10 @@ During the Event
 - Prize to guests + TY for the judges (Trezor)
 - Celebration/Networking
 
-## After the Event
+After the Event
 - Packing up ( Dishes / Chairs / Cleaning) 
-- Follow up with your own sponsors + thank you 
 - Get some sleep 
+- Follow up with your own sponsors + thank you 
 - Improvement form 
 - Thank you + Keeping in touch with the attendees
 - Follow up content 
@@ -155,10 +155,30 @@ Blockathons come in all sizes from as small as 5-10 people to 200 people. Bigger
 Asking for pre-registration will give you and your team an indication of the number of attendees for the event and how much catering you will have to provide. Using services such as Eventbite or Google Form can help you with this process.
 
 ## Budgetting
-Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. 
+Understanding your budget is crucial to the running of the event. Most of the budget will be for the food and drinks catering as it is important to keep your attendees full and let them focus on hacking. Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together.
 
-Include Sample Budgetting...
-🔴🔴
+Make the food at your hackathon a healthy, fulfilling experience for attendees.
+
+Sample Budgets (Priced in AUD):
+
+For 12 Hour Blockathon Day
+- One Lunch + One Dinner and Drinks + Snacks
+Approx cost: $300 - 1000
+
+For 24 Hour Blockathon Day
+- One Breakfast + One Lunch + One Dinner and drinks + Snacks
+Approx cost: $500 - $2000
+
+For 48 Hour Blockathon Weekend
+- Two Breakfasts + Two Lunches + Two Dinners and drinks + Snacks
+Approx cost: $1000 - 10000+
+
+- Breakfast ideas: Waffles, Pancakes, Cereal, Toast
+- Lunch ideas: Sandwiches, Buritos, Falalel wraps, sushi, 
+- Dinner ideas: Pizza, Pick a favourite restaurant nearby and do an Uber Eats order
+- Snacks: Chips, Dips, Lollies, Tea, Coffee
+
+For alcohol budgetting, it is usally best to estimate $10 per person. 
 
 ## Sponsorship
 Unless you have a budget for Hackathons, you will want to find a sponsor for your event to cover your costs.  Costs include those for a venue (if you are unable to find a free option), and food.  Your sponsor may be able to provide you with a venue for your event. 
@@ -281,27 +301,17 @@ This is highly dependant on the venue but there are certain task that need to be
 - List of expected attendees - To tick off during arrival
 
 ## Arival of Attendees 
-Your event particants will start coming in as soon as the 
+Your event particants will start coming in at the designated start time. Greet them in a friendly manner and make them feel welcome. Start chatting to them and get them to register the required details. 
 
-## Food Considerations 
-Low budget: 
-- Supermarket - bulk / online deliveries
-- Bread / Cereal Milk / 
-- Snacks - biscuits / sugar
-- Roast chicken for sandies
-30 people = $400-500 AUD 
+A name tag also helps remembering names so having a Sharpie/permanent marker with some stick on name tags work great :)
 
-Alcohol - 60 - 80 $10 / pp
+Also be mindful that the particpants will most likely not be arriving exactly on the start time so allow for some leway time before the first agenda item commences.
 
-Medium
-- Order restaurant for deals ( buritos / suhsi / sandiwhces / falafel and wraps / XXX)
+## Introduction
 
-High
-- High end catering if you want to impress corproate faggots + dollar dollar bills + Champagne every day. 
 
-Food and drink is one of the connecting elements of hackathons.  Spending an entire day or weekend together, solving problems and sharing breakfast, lunch, dinner and late night snacks has a way of bringing people together. [[2](https://github.com/kinlane/hack-weekends-guide#2-hack-weekends---httphackweekendscom)]
+## Food Prep 
 
-Make the food at your hackathon a healthy, fulfilling experience for attendees. 
 
 ### Support
 There should be staff on hand to help users set-up quickly for their demos, such as connecting to the projector. If the equipment at the venue allows it, have one demo presenting while the next is setting up. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
