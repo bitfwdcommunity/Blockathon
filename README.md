@@ -36,9 +36,9 @@ During the Event
 - Organising Team - Who will be required to help out on the day
 - Morning Preparation - What to prepare in the morning before the event starts
 - Arrival of the guests (NAME TAGS) 
-- Presenting the problem + criteria of the end pitch... (Keynote person)
-- HACK !!!!!! + Mentor
-- Catering (Food and drinks) 
+- Introduction + Keynote Speaker
+- Food
+- HACK !!!!!!
 - Pitch time
 - During the Pitch (MC / Time constraints / Timer on iPad)
 - End of the Pitch (Judging sheets / MC) - Get food during this. 
@@ -118,7 +118,8 @@ Hack Day Example
 | 1100-1130AM  | Keynote Talk + Presentation of problem|
 | 1130-1200PM  | Team Formation Exercise |
 | 1200-1230PM  | Lunch |
-| 1230-500PM   | Hack! |
+| 1230-430PM   | Hack! |
+| 430-500PM   | Code Freeze + Chillout |
 | 500-545PM    | Pitches |
 | 545-600PM    | Judges Discussion for winners |
 | 600-615PM    | Presentation + Prizes |
@@ -165,18 +166,22 @@ For 12 Hour Blockathon Day
 - One Lunch + One Dinner and Drinks + Snacks
 Approx cost: $300 - 1000
 
+
 For 24 Hour Blockathon Day
 - One Breakfast + One Lunch + One Dinner and drinks + Snacks
 Approx cost: $500 - $2000
+
 
 For 48 Hour Blockathon Weekend
 - Two Breakfasts + Two Lunches + Two Dinners and drinks + Snacks
 Approx cost: $1000 - 10000+
 
+
 - Breakfast ideas: Waffles, Pancakes, Cereal, Toast
 - Lunch ideas: Sandwiches, Buritos, Falalel wraps, sushi, 
 - Dinner ideas: Pizza, Pick a favourite restaurant nearby and do an Uber Eats order
 - Snacks: Chips, Dips, Lollies, Tea, Coffee
+
 
 For alcohol budgetting, it is usally best to estimate $10 per person. 
 
@@ -296,7 +301,10 @@ On the day you will need to assign a few roles to make things run smoothly. It w
 This is highly dependant on the venue but there are certain task that need to be done before all the attendees arrive:
 
 - Chair / Space Setup - How would you like to set up the room and the 'hacking' tables.
+- Breakfast (if provided) - Have the plates, utensils, cups and drinks prepared
 - Powerpoints / plugs - Each 'hacking' table should have at least one power plug for participants to charge their laptops. Make sure the plugs are not a hazard to people's pathway
+- Snacks for the hackathon tables - Lollies, chips, nuts etc. for the partipants to snack on during the hack 
+- Paper, stickies, permanent markers, whiteboards - For the teams to brainstorm on
 - Wifi + Telegram Group link- Would be best to print the details onto a piece of paper and leave on all the tables 
 - List of expected attendees - To tick off during arrival
 
@@ -307,83 +315,134 @@ A name tag also helps remembering names so having a Sharpie/permanent marker wit
 
 Also be mindful that the particpants will most likely not be arriving exactly on the start time so allow for some leway time before the first agenda item commences.
 
-## Introduction
+## Introduction + Keynote Speaker  
+Once a majority of the attendees have arrived, it's time to open the opening address with your MC and your keynote speaker. During this time, you would have the MC:
+
+- Thank all the attendees for coming to 'hack' at the blockathon
+- Thank the sponsors for making this event possible
+- Have the keynote speaker/MC talk about the problem that needs to be solved for the blockathon
+- Discuss the criteria for the outcomes/pitches (How long the pitch is, when is code freeze)
+- Address any other safety requirements and agenda items (Bathroom, after hours access etc.)
+- An overview of the day/days
+
+## Team formation / brainstorm exercises
+After the initial introduction and the attendees are settled in nicely, it is nice to start team building and getting to know one another. From a lot of the hackathons/blockathons that we have seen, just putting people into groups is not the best solution. 
+
+Individuals should form teams in the most natural ways (within the required time allocation) and then start forming about Blockchain ideas and solutions.
+
+A combination of exercises we have done include:
+
+Meet 10 people in 10 minutes
+1. Turn to the person next to you, introduce yourself and talk about a specific topic (I.e. How did you get started with Blockchain)
+2. After 1 minute, the bell rings and you talk to someone else new
+3. This rotation is done 10 times and the participants would have met 10 new people.
+
+Present ideas in 1 minute
+1. Whoever wants to present an idea is allocated 1 minute to talk to everyone in the audience 
+2. Everyone is given a chance to talk 
+3. At the end of all the pitches, everyone who presented stands at the front and in an orderly fashion, participants are free to talk to 
+
+Brainstorming
+1. Have an idea around Blockchain / Non Blockchain related
+2. Get people to form groups of 4 -5, depending on the number of attendees. Give them 5-10 minutes to form a pitch around the idea (Blockchain + Energy)
+3. 🔴🔴 Forgot how this process works...
 
 
-## Food Prep 
+🔴🔴 (Robin to add pull / more info)
 
+Teams are usually formed over a certain time period, but it's also great to allow them to do it over a social setting such as lunch. 
 
-### Support
-There should be staff on hand to help users set-up quickly for their demos, such as connecting to the projector. If the equipment at the venue allows it, have one demo presenting while the next is setting up. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+## Food
+A meal is what brings people together and allows them to discuss really cool ideas, so:
 
-### Video connectors
-For the demos, either have a set of adapters handy for (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI video outputs, or make sure attendees know the projector’s inputs ahead of time so they can make sure they have the relevant adapters. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+- Make sure that the food and drinks arrives 10 minutes before your set time of allocation. 
+- Organise enough plates, cutlery, napkins and cups
+- Organise the layout of the food and drinks so that attendees can walk around and talk to one another. (I.e. in the foyer or outside)
 
+## Hack 
+Once teams are sorted, Blockathon hacking can commence! 🎉
 
+The teams will sit around their designated tables and start bringing their ideas to life.
 
-## Safety
+As aforementioned in the [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) section, hopefully the teams have enough powerpoints, snakcs and brainstorming tools to work together.
 
-### Emergency plans
-Make sure you have a plan for attendees who are injured, fall ill or suffer any other emergencies. Have at least one designated first aider on call. Make sure you know where the first aid box is, and check it’s appropriately stocked. Know the procedures for calling an ambulance, sounding the fire alarm, evacuation point, and logging incidents in the venue. Make sure attendees know who to turn to for help; a phone number, a few bright crew shirts and a central crew desk or wardrobe go a long way. A central point of contact will also help you deal with inevitable electric, network, venue- or food-related questions. [4](https://github.com/kinlane/hack-weekends-guide#4-the-hack-day-manifesto---httphackdaymanifestocom)]
+The mentors for the Blockathon can go around during the day to help support the teams with any business or technical questions they may have. 
 
+As per your agenda, let the participants know whenever there is a guest talk, lunch afternoon tea, dinner, lunch.
 
-## Introduction
-As people arrive, welcome them and direct them to the area where you’ll be working and where they can find coffee and snacks.  If you have a photo release form, this is a good time to hand it out, ask them to sign it and return it to you. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+The organising team should go around fromt iem to time to check if the blockathon participants need any assistance/anything that answer any questions.
 
-People will arrive at various times regardless of the official start time for your hackathon.  We recommend that you start the event on time, only delaying if you don’t think you have enough people to get started.  Don’t delay the start more than 15 minutes in order to honour the people who arrived on time. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+## Social Media
+Creating content during these blockathons are also important to ....
+🔴🔴🔴
 
-When it’s time to start, you# should get the attention of the room and give a brief introduction, being sure to cover the following topics: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+## Code Freeze / Pitch Collection Period 
+All good things must come to an end, including the hacking. 😌
 
-* your name and why you organized the hackathon
-* the title and the theme of the hackathon
-* a thank you to the participants for attending, and an assurance it will be a fun day
-* a thank you to the hosts and sponsors for providing food, space, etc.
-* an introduction to open data
-* an overview of the day
+This is why the code freeze (as per [sample agenda](https://github.com/bitfwdcommunity/Blockathon#format)) is important and provides the strict deadline as to when the coding / pitches are finalised. The collection of pitches can then commence while the teams chillout and relax a bit. 
 
-Optional: Depending on the time available and the number of participants, it is useful to have participants introduce themselves.  Ask them to state their name, something about themselves and what brought them to the hackathon.  This breaks the ice a bit and gives people some context as to who is in the room with them. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+There are a few ways to collect the slides:
+- Send the Google Slides via the Telegram group
+- Put on slides on USB
+- Share to a common Google Drive + provide them with the URL 
 
-Finally, ask the participants if there are any questions before you get started.  Hackathons are a new concept to many people, just as open data is a new concept.   People may not know exactly what they will be doing, but at least you can give them some idea of the format, so that they can relax and focus on the next task. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+If some of the teams are doing a demo, make sure that you ask them and see what requirements are needed for their AV inputs.
 
-
-## Brainstorming
-
-People often approach problems with preconceived ideas about what’s possible, based on what they know and their experiences to date.  This approach is great for survival, but ignores the the realm of knowing called “what you don’t know you don’t know”.  The job of the facilitator in this phase is to expand the realm of what’s possible so that participants can generate ideas that they may not have otherwise allowed themselves to contemplate. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-There is a tendency to be realistic and come up with small, or practical solutions.  While this is fine, and simple solutions are often the best solutions, you want to encourage participants explore everything that’s possible to minimize the impact of the self-imposed limitations they walked into the room with. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-You will want to provide a form or a shared spreadsheet to collect the generated ideas.  Google spreadsheets are perfect for this purpose.  Explain to the participants that they can enter their ideas into the spreadsheet if they want to, but that they don’t have to.  Sometimes people don’t want to record their idea in a public forum, and that’s fine.  The form should have descriptive information in the fields that help people think about some of the attributes and potential effects of their idea. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-Here is an example of what your form could look like: [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-* Title - Project Title
-* Description - Brief description of project
-* Audience - Who would benefit from this project and roughly how many people would this represent?
-* Data - What data is needed?
-* Where	Where is the required data? - Past URLs into the data if known.
-* Skills - What skills are needed to further this project?
-* Considerations - Are there any other considerations? (threats, risks?)
-* Similar - Is this project or a similar project being done elsewhere?  Provide URLs if possible.
-* Collaborators - Who is working on this project? (names, twitter IDs)  If you prefer not to say, that’s okay too.
-
-Here is a link to the OpenDataBC form: http://goo.gl/Ye3DR  .  Please feel free to use this as an example; however, if you want to actually use it, be aware that your ideas will end up in the OpenDataBC ideas spreadsheet (and, we request that you only use the OpenDataBC spreadsheet if your event is an OpenDataBC sanctioned event). [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-Important: Let participants know that the spreadsheet is public on the internet.  If they don’t want to make their idea public, they may not want to use the tool.  Using the tool is not a requirement, it’s just a tool to help develop ideas and record them for those who want to do that. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-Once you have described the brainstorming process, invite participants to start coming up with ideas.  The more ideas, the better, so if a person has more than one they should record them all.  Also encourage them to discuss their ideas with their neighbours.
-Let them know that the brainstorming will take place over the next 30 or so minutes.  Remind them that there is coffee and snacks and that at the end of the brainstorming session you will be inviting them to talk about their ideas with the room. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-Once they have started, ask your room manager to help you wander around the room and chat with people one-on-one to see how they are doing.  Different people engage differently when given an opportunity to brainstorm publicly.  Some will jump right in and will engage with others around them.  Some will want to work on their own.  Some will want to work with others but may feel awkward or shy about getting involved with others.  The hackathon team members can help by simply going around from team to team or person to person and checking in with them, asking how it’s going, if they have thought of something, etc..  Sometimes a suggestion that people work together or for someone to join a team is all it takes to make someone’s experience of the day much more engaging.  A little bit of one-on-one can work wonders for people to get more out of the process. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
-
-The brainstorming session will often take longer than expected.  It takes awhile for people to warm up and for the ideas to start flowing.  Remind people to record their ideas and give periodic reminders about how much time they have left.  Usually, 30 to 45 minutes is sufficient for folks to be ready to move to the next step. [[3](https://github.com/kinlane/hack-weekends-guide#3-open-data-hackathon-how-to-guide---httpsdocsgooglecomdocumentd1fbuisdtiibaz9u2tr7sgv6gddlov_ahbafjqhxsknb0edit)]
+AV requirements
+Video projector
+ (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI 
 
 
 
+The pitch format:
+- Usually between 3-5 minutes 
+- Strict time guidelines are to be addressed by measuring with the Phone timer etc.
+- First warning bells / sign at 4 minutes and second warning ball and cutoff at 5 minutes.
+- Judging time will be between 3-5 minutes as well
+- Judges should have the judging criteria sheet + pen + extra paper to write notes
 
-🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+(Sample pitch judging image / URL can be found here)
+🔴🔴🔴 (Should probs put pitch format in the before event section...
+
+Team, best to have someone at the podium, laptop 
+
+After all the teams have pitched and provided with their judging feedback, the MC will thank all the teams for the awesome projects they have hacked at the Blockathon. Then allow the judges to convene to another room to discuss who will be the winners as per criteria. 
+
+Allow the rest of the audience and participants to start mingling, have some food and drinks. 
+
+After the judges are back, the MC will gather everyone around again/get them to sit down. 
+
+## Announce Winners
+The judges will then announce the winners with explanation as to why they won. 
+
+
+## Thank you for sponsors, judges, mentors and organising team
+Many thanks are in order for being able to run a successful event. So after the winners have been announced, make sure the MC thanks all the sponsors, judges mentors and the organising team for making the event possible.
+
+It is also nice to have a small gift (wine,chocolates etc.) to give to the mentors and judges for taking time out of their day to give back to the community.
+
+Now is time to party 🎉
+
+## Celebration + Networking + Food and Drinks 
+
+
+
+
 <img src="https://user-images.githubusercontent.com/16810128/36583841-5be75288-18cb-11e8-989f-ee32352744ae.jpg"> 
-🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
+Even after your event is technically over, there are still opportunities to connect with your participants....
+## Packing up 
 
-## After Event
 
-Even after your event is technically over, there are still opportunities to connect with your participants.  In doing this, you can let other folks who were not able to attend know what happened (and make them wish they hadn’t missed it!).  In addition, it’s another opportunity to thank your participants, recognize what they accomplished through their participation and demonstrate progress toward the overall goals of your cause, in this case, open data. 
+## Get some sleep 
+
+
+## Follow up with your sponsors 
+
+
+## Feedback Form
+
+
+## Thank you + keeping in touch with the teams
+
+
+## Follow up content 
