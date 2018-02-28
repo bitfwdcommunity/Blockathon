@@ -66,7 +66,7 @@ Whether you are a Hacker (programmers), Hipster (Growth/User Interface/User Expe
 Blockathons typically last between a day to a week in length, depending on the event. The ideas that people work on can either be pre-planned or formed on the day of the event. Depending on the Blockathon, there may be a specific focus which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created. Today, this term is not related to "hacking", it is just a programming marathon.<br />
 
 <img src="https://user-images.githubusercontent.com/16810128/36579829-4cdf306a-18b9-11e8-95c3-f4cc639da954.jpg"> 
-A lot of planning has to be done in order to get a Blockathon rolling, but that's what this guide is for. Key considerations include who will be organising most of the vent, when and where will it be held, how much money will you have for the vent and who will be judging at the end. 
+A lot of planning has to be done in order to get a Blockathon rolling, but that's what this guide is for. Key considerations include who will be organising most of the event, when and where will it be held, how much money will you have for the event and who will be judging at the end. 
 
 ## Organising Team 
 Your organising team is the most important foundation for running a successful blockathon. You will all be working together for XXX. There are several key roles that we have identified:
@@ -238,7 +238,7 @@ Have a structured approach to structuring your speaker line-up.  Provide a frame
 
 Make sure your speaker line-up is logical and fits well with the theme and schedule of your hackathon.
 
-For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon particpants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
+For Judges and Mentors, these are people who are well respected in the Blockchain community and can offer valuable feedback to the blockathon participants who are pitching. Judges should range from 3 to 5 individuals. Mentors are any number of individuals  who are available to help out during the hacking and answer any expertise questions the attendees may have on the day. 
 
 <img src="https://user-images.githubusercontent.com/16810128/36648990-ae6616d8-1aed-11e8-8b14-cfd3b49d2148.PNG"> 
 <p align="center"> Example: Blockathon Judges / Speakers </p>
@@ -301,7 +301,7 @@ When you require your attendees to register, make it clear what information is r
 If there’s a waiting list for the event, make sure to explain how it works.
 
 ## Distribution and Spreading the Word
-The most important part is getting as many participants coming to your event! So distribtion and utiilsing the various social media and messaging platforms will help you promote your event to the right audience.
+The most important part is getting as many participants coming to your event! So distribution and utilising the various social media and messaging platforms will help you promote your event to the right audience.
 
 <strong>Email</strong> 
 
@@ -342,7 +342,7 @@ Your event particants will start coming in at the designated start time. Greet t
 
 A name tag also helps remembering names so having a Sharpie/permanent marker with some stick on name tags work great :)
 
-Also be mindful that the particpants will most likely not be arriving exactly on the start time so allow for some leway time before the first agenda item commences.
+Also be mindful that the participants will most likely not be arriving exactly on the start time so allow for some leway time before the first agenda item commences.
 
 ## Introduction + Keynote Speaker  
 Once a majority of the attendees have arrived, it's time to open the opening address with your MC and your keynote speaker. During this time, you would have the MC:
@@ -395,7 +395,7 @@ Once teams are sorted, Blockathon hacking can commence! 🎉
 
 The teams will sit around their designated tables and start bringing their ideas to life.
 
-As aforementioned in the [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) section, hopefully the teams have enough powerpoints, snakcs and brainstorming tools to work together.
+As aforementioned in the [Morning Preparation](https://github.com/bitfwdcommunity/Blockathon/blob/readme_edit_1/README.md#morning-preparation) section, hopefully the teams have enough powerpoints, snacks and brainstorming tools to work together.
 
 The mentors for the Blockathon can go around during the day to help support the teams with any business or technical questions they may have. 
 
@@ -475,7 +475,7 @@ Questions you may want to include:
 🔴🔴
 
 ## Thank you + Keeping in touch with the teams
-A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon particpants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
+A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon participants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
 
 ## Follow up content 
 For the marketing side, there is opportunity for you to showcase how awesome your Blockathon was as well as create follow up content (Interviews/Videos/Linkedin post / Medium post). 
