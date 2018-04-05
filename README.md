@@ -89,8 +89,8 @@ Your hackathon attendees will appreciate you putting a lot of thought into your 
 
 Below are a list of past Blockathons:
 * [MCIC Blockathon](https://mcichack.com/blockathon/)
-* List of the past Hackathons that we have seen/run XXX ... Provide link...
-🔴🔴
+* [Akropolis.io Mini-Blockathon](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/events/247793778/?eventId=247793778)
+* Add more to the list...🔴🔴
 
 ## Title and Description
 Give your event a catchy name that represents your theme and will stick in the minds of developers/participants.
@@ -130,7 +130,6 @@ Hack Weekend Example (48 Hours)
 | 1130-1200PM  | Team Formation Exercise |
 | 1200-1230PM  | Lunch |
 | 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
-
 
 | Time  | Agenda |
 | --- | --- |
@@ -227,8 +226,8 @@ The format of the pitches varies, but typically they follow this example format:
 - Judging time will be between 3-5 minutes as well
 - Judges should have the judging criteria sheet + pen + extra paper to write notes
 
-(Sample pitch judging document/image / URL )
-🔴🔴 
+[Here is a sample registration Google Form we created](https://docs.google.com/forms/d/16hM6Tmd3EBDclWubygj711fHMgoKWMx9GiW8Mz_rTX8/edit?usp=drive_web
+
 
 ## Speakers, Judges and Mentors
 
@@ -262,7 +261,7 @@ Now that you have planned all the pre-requisites of the Blockathon, now it's tim
 
 A landing page allows you to visually board and design all the necessary information for your Blockathon. It will list all the details you have organised before the event. 
 
-This can be done by creating a github README.md file or a website / landing page. Websites and landing pages can easily be made through services such as Wordpress, Wix, SquareSpace, Unboucne or you can code it yourself 💻
+This can be done by creating a github README.md file or a website / landing page. Websites and landing pages can easily be made through services such as Wordpress, Wix, SquareSpace, Unbounce or you can code it yourself 💻
 
 Below is a preview of our landing page:
 
@@ -388,7 +387,7 @@ A meal is what brings people together and allows them to discuss really cool ide
 - Organise enough plates, cutlery, napkins and cups
 - Organise the layout of the food and drinks so that attendees can walk around and talk to one another. (I.e. in the foyer or outside)
 
-🔴🔴 Add pictures from our Blockathon
+🔴 Add pictures from our Blockathon
 
 ## Hack 
 Once teams are sorted, Blockathon hacking can commence! 🎉
@@ -420,27 +419,21 @@ There are a few ways to collect the slides:
 
 If some of the teams are doing a demo, make sure that you ask them and see what requirements are needed for their AV inputs.
 
-AV requirements
-Video projector
- (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI 
-
-Live stream (optional)
+- AV requirements
+- Video projector
+- (Apple Mac) Mini DisplayPort, VGA, DVI, and HDMI 
+- Live stream (optional)
 
 ## The Pitch
-As per suggested format...
-
-Team, best to have someone at the podium, laptop 
-
 After all the teams have pitched and provided with their judging feedback, the MC will thank all the teams for the awesome projects they have hacked at the Blockathon. Then allow the judges to convene to another room to discuss who will be the winners as per criteria. 
 
 Allow the rest of the audience and participants to start mingling, have some food and drinks. 
 
 After the judges are back, the MC will gather everyone around again/get them to sit down. 
-🔴🔴 Add more..
 
 ## Announce Winners + Prizes
 The judges will then announce the winners with explanation as to why they won. 
-🔴🔴 Add more..
+
 
 ## Thank you for sponsors, judges, mentors and organising team
 Many thanks are in order for being able to run a successful event. So after the winners have been announced, make sure the MC thanks all the sponsors, judges mentors and the organising team for making the event possible.
@@ -467,12 +460,6 @@ Also if there are any followups needed for the winners, it would be a great oppo
 While the Blockathon is still fresh in their minds, receiving feedback from your participants is also a great way to assess with the team what they did well and what they could improve on for the next Blockathon. 
 
 This can be sent through a Google Form / Typeform via Telegram or email.
-
-Questions you may want to include:
-- XXX
-- XXX
-- XXX 
-🔴🔴
 
 ## Thank you + Keeping in touch with the teams
 A general thank you email blast or across the Telegram group is also a great gesture to thanking the Blockathon particpants for coming along to the venue. Maintaining contact with all the teams is a great idea to see if they further develop their ideas. 
