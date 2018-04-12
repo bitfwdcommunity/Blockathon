@@ -146,6 +146,43 @@ Hack Weekend Example (48 Hours)
 | 615-700PM+   | Afterparty drinks + food|
 
 
+Hack Weekend Example with proper 2.5 days (60 Hours)
+
+Day 1
+| Time  | Agenda |
+| --- | --- |
+| 400-500PM  | Set up of venue   |
+| 500-530PM  | Registration + Welcome  |
+| 530-600PM  | Introduction + Team Building Exercise |
+| 600-630PM  | Pizza |
+| 630-900PM  | Hack begins + Teams forming |
+
+
+Day 2
+| Time  | Agenda |
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Welcome |
+| 1030AM-1200PM  | Hack! |
+| 1200-1230PM  | Lunch |
+| 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
+
+
+Day 3
+| Time  | Agenda |
+| --- | --- |
+| 900-930AM  | Set up of venue   |
+| 930-1030AM  | Breakfast + Welcome  |
+| 1030-1100AM  | Review of the first 24 hours|
+| 1100-1230AM  | Hack! +  Mentoring + Any guest speakers + Dinner! |
+| 1230-100PM  | Lunch |
+| 100-430PM  | Hack!!! |
+| 430-500PM   | Code Freeze + Chillout |
+| 500-545PM    | Pitches |
+| 545-600PM    | Judges Discussion for winners |
+| 600-615PM    | Presentation + Prizes |
+| 615-700PM+   | Afterparty drinks + food|
+
 This is a sample agenda and represents just a few approaches to formatting a hackathon.  The best way to find out what works is attend other events, and find the characteristics you like best.
 
 ## Date and Time
