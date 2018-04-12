@@ -148,8 +148,8 @@ Hack Weekend Example (48 Hours)
 
 Hack Weekend Example with proper 2.5 days (60 Hours)
 
-Day 1
-| Time  | Agenda |
+
+| Day 1: Time  | Agenda |
 | --- | --- |
 | 400-500PM  | Set up of venue   |
 | 500-530PM  | Registration + Welcome  |
@@ -158,8 +158,8 @@ Day 1
 | 630-900PM  | Hack begins + Teams forming |
 
 
-Day 2
-| Time  | Agenda |
+
+|Day 2: Time  | Agenda |
 | --- | --- |
 | 900-930AM  | Set up of venue   |
 | 930-1030AM  | Breakfast + Welcome |
@@ -168,8 +168,8 @@ Day 2
 | 1230-800PM   | Hack!!! +  Mentoring + Any guest speakers + Dinner! |
 
 
-Day 3
-| Time  | Agenda |
+
+|Day 3: Time  | Agenda |
 | --- | --- |
 | 900-930AM  | Set up of venue   |
 | 930-1030AM  | Breakfast + Welcome  |
