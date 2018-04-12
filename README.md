@@ -102,7 +102,7 @@ The formats for hackathons depend on the organisers.  Usually they revolve aroun
 * Hack Day - 12 to 24 hour timeframe
 * Hack Weekend - 24 to 72 hour timeframe
 
-Hack Day Example ( 24 Hours)
+### Hack Day Example ( 24 Hours)
 
 | Time  | Agenda |
 | --- | --- |
@@ -119,7 +119,7 @@ Hack Day Example ( 24 Hours)
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks |
 
-Hack Weekend Example (48 Hours)
+### Hack Weekend Example (48 Hours)
 
 | Time  | Agenda |
 | --- | --- |
@@ -145,7 +145,7 @@ Hack Weekend Example (48 Hours)
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks + food|
 
-Hack Weekend Example with proper 2.5 days (60 Hours)
+### Hack Weekend Example with proper 2.5 days (60 Hours)
 
 | Day 1: Time  | Agenda |
 | --- | --- |
