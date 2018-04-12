@@ -145,9 +145,7 @@ Hack Weekend Example (48 Hours)
 | 600-615PM    | Presentation + Prizes |
 | 615-700PM+   | Afterparty drinks + food|
 
-
 Hack Weekend Example with proper 2.5 days (60 Hours)
-
 
 | Day 1: Time  | Agenda |
 | --- | --- |
