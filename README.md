@@ -338,19 +338,18 @@ If there’s a waiting list for the event, make sure to explain how it works.
 The most important part is getting as many participants coming to your event! So distribution and utilising the various social media and messaging platforms will help you promote your event to the right audience.
 
 <strong>Email</strong> 
+For those that have an email list, this will be a very strong source to send out an EDM to reach potential attendees. 
 
-<strong>Telegram</strong>
-Within the Blockchain community, Telegram is a very common communication channel... 
 
-<strong>Twitter</strong>
+<strong>Telegram</strong> 
+Telegram is a very common communication tool for people in the Blockchain / Crypto space so doing an announcement and including the event details + links will be awesome. Getting individuals to start talking about it in the respective groups will be great for your event as well.
 
-Add info about information pack that goes out a week before
-
-🔴🔴 (Need to finish)
+<strong>Facebook</strong>
+Twitter and Facebook are also another commonly used social media platform in the Blockchain / Crypto space. Posting there with an FB event / event details will help spread the word.  
 
 <img src="https://user-images.githubusercontent.com/16810128/36580205-675e68dc-18bb-11e8-85c8-b7eba9bc4f8e.jpg"> 
 Now for the fun part of how to run the Blockathon on the day! Initially the organising team should arrive 1 to 1.5 hours before the event starts. (I.e arrive 730-8am if the event starts at 9am)
-🔴🔴 Add more text...
+
 
 ## Organising Team 
 On the day you will need to assign a few roles to make things run smoothly. It would also be ideal for other people/volunteers to help out with the event to help with the setting up on the venue and ssisiting the attendees for anything they need.
@@ -371,7 +370,7 @@ This is highly dependant on the venue but there are certain task that need to be
 - Wifi + Telegram Group link- Would be best to print the details onto a piece of paper and leave on all the tables 
 - List of expected attendees - To tick off during arrival
 
-## Arival of Attendees 
+## Arrival of Attendees 
 Your event particants will start coming in at the designated start time. Greet them in a friendly manner and make them feel welcome. Start chatting to them and get them to register the required details. 
 
 A name tag also helps remembering names so having a Sharpie/permanent marker with some stick on name tags work great :)
@@ -410,7 +409,6 @@ Brainstorming
 2. Get people to form groups of 4 -5, depending on the number of attendees. Give them 5-10 minutes to form a pitch around the idea (Blockchain + Energy)
 3. Revise how this process works...
 
-
 🔴🔴 (Robin to add pull request/ more info)
 
 Teams are usually formed over a certain time period, but it's also great to allow them to do it over a social setting such as lunch. 
@@ -421,8 +419,6 @@ A meal is what brings people together and allows them to discuss really cool ide
 - Make sure that the food and drinks arrives 10 minutes before your set time of allocation. 
 - Organise enough plates, cutlery, napkins and cups
 - Organise the layout of the food and drinks so that attendees can walk around and talk to one another. (I.e. in the foyer or outside)
-
-🔴 Add pictures from our Blockathon
 
 ## Hack 
 Once teams are sorted, Blockathon hacking can commence! 🎉
@@ -438,9 +434,9 @@ As per your agenda, let the participants know whenever there is a guest talk, lu
 The organising team should go around fromt iem to time to check if the blockathon participants need any assistance/anything that answer any questions.
 
 ## Social Media
-Creating content during these blockathons are also important to ....
-Live stream (optional)
-🔴🔴
+Creating content during these blockathons are also important to document the process for the future process. So utilising the various platforms (Facebook / Twitter / Telegram ) 
+
+Live streaming and having your own photographer / videographer would also be awesome.
 
 ## Code Freeze / Pitch Collection Period 
 All good things must come to an end, including the hacking. 😌
